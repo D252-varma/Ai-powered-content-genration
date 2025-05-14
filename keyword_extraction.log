@@ -1,0 +1,1236 @@
+2025-04-26 19:48:43,774 - INFO - Loading model and encoder...
+2025-04-26 19:48:43,860 - INFO - Processing text: Okay, here are 5 blog titles, outlines, and a rich text editor representation based on the "movie" n...
+2025-04-26 19:48:43,976 - INFO - Extracted keywords: []
+2025-04-26 19:50:10,656 - INFO - Loading model and encoder...
+2025-04-26 19:50:11,606 - INFO - Processing text: Okay, here are 5 blog titles and their outlines, formatted for a rich text editor, based on the "mov...
+2025-04-26 19:50:11,663 - INFO - Extracted keywords: []
+2025-04-26 19:50:16,549 - INFO - Loading model and encoder...
+2025-04-26 19:50:17,307 - INFO - Processing text: Okay, here are 5 blog titles and their outlines, formatted for a rich text editor, based on the "mov...
+2025-04-26 19:50:17,360 - INFO - Extracted keywords: []
+2025-04-26 20:10:31,516 - INFO - Loading model and encoder...
+2025-04-26 20:10:32,427 - INFO - Processing text: Okay, here are 5 blog titles tailored to a "movie" niche with a "general" audience, along with blog ...
+2025-04-26 20:10:32,484 - INFO - Extracted keywords: []
+2025-04-26 20:11:29,228 - INFO - Loading model and encoder...
+2025-04-26 20:11:30,146 - INFO - Processing text: Okay, here are 5 blog titles and corresponding outlines geared towards a "movie" niche with a "tech"...
+2025-04-26 20:11:30,201 - INFO - Extracted keywords: []
+2025-04-26 20:11:58,681 - INFO - Loading model and encoder...
+2025-04-26 20:11:59,587 - INFO - Processing text: Alright, here are 5 blog titles and outlines designed for a "movie" niche, targeting a "marketing" a...
+2025-04-26 20:11:59,643 - INFO - Extracted keywords: []
+2025-04-26 20:15:04,464 - INFO - Loading model and encoder...
+2025-04-26 20:15:05,439 - INFO - Processing text: Okay, here are 5 blog titles and corresponding outlines, tailored for a general audience interested ...
+2025-04-26 20:15:05,493 - INFO - Extracted keywords: []
+2025-04-28 11:29:26,525 - INFO - Loading model and encoder...
+2025-04-28 11:29:27,118 - INFO - Processing text: Okay, here are 5 blog titles and outlines for each, formatted as you might see in a rich text editor...
+2025-04-28 11:29:27,127 - INFO - Extracted keywords: ['ai', 'business', 'career', 'content marketing', 'content_marketing', 'enthusiasts', 'finance', 'fitness', 'gadgets', 'innovation', 'instagram', 'marketing', 'marketing strategy', 'personal_branding', 'productivity', 'small_business', 'social_media', 'strategy', 'technology', 'viral_content']
+2025-04-28 11:29:27,128 - INFO - Keyword: AI, Probability: 0.150
+2025-04-28 11:29:27,128 - INFO - Keyword: Canva, Probability: 0.125
+2025-04-28 11:29:27,128 - INFO - Keyword: ML, Probability: 0.150
+2025-04-28 11:29:27,128 - INFO - Keyword: NFTs, Probability: 0.144
+2025-04-28 11:29:27,128 - INFO - Keyword: SEO, Probability: 0.148
+2025-04-28 11:29:27,128 - INFO - Keyword: TikTok, Probability: 0.126
+2025-04-28 11:29:27,128 - INFO - Keyword: UI/UX, Probability: 0.142
+2025-04-28 11:29:27,128 - INFO - Keyword: WordPress, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: YouTube optimization, Probability: 0.148
+2025-04-28 11:29:27,128 - INFO - Keyword: adventure, Probability: 0.155
+2025-04-28 11:29:27,128 - INFO - Keyword: affordable, Probability: 0.130
+2025-04-28 11:29:27,128 - INFO - Keyword: ai, Probability: 0.206
+2025-04-28 11:29:27,128 - INFO - Keyword: app interface, Probability: 0.142
+2025-04-28 11:29:27,128 - INFO - Keyword: apps, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: art market, Probability: 0.144
+2025-04-28 11:29:27,128 - INFO - Keyword: awareness, Probability: 0.138
+2025-04-28 11:29:27,128 - INFO - Keyword: basics, Probability: 0.169
+2025-04-28 11:29:27,128 - INFO - Keyword: beauty, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: beauty_routine, Probability: 0.133
+2025-04-28 11:29:27,128 - INFO - Keyword: belly_fat, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: blockchain, Probability: 0.161
+2025-04-28 11:29:27,128 - INFO - Keyword: blogging, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: branding, Probability: 0.162
+2025-04-28 11:29:27,128 - INFO - Keyword: budget_travel, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: budgeting, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: business, Probability: 0.638
+2025-04-28 11:29:27,128 - INFO - Keyword: business growth, Probability: 0.162
+2025-04-28 11:29:27,128 - INFO - Keyword: business tips, Probability: 0.167
+2025-04-28 11:29:27,128 - INFO - Keyword: business_growth, Probability: 0.173
+2025-04-28 11:29:27,128 - INFO - Keyword: buying home, Probability: 0.132
+2025-04-28 11:29:27,128 - INFO - Keyword: career, Probability: 0.238
+2025-04-28 11:29:27,128 - INFO - Keyword: career growth, Probability: 0.129
+2025-04-28 11:29:27,128 - INFO - Keyword: career options, Probability: 0.129
+2025-04-28 11:29:27,128 - INFO - Keyword: career_tips, Probability: 0.137
+2025-04-28 11:29:27,128 - INFO - Keyword: coding practices, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: collaboration, Probability: 0.147
+2025-04-28 11:29:27,128 - INFO - Keyword: communication, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: confidence, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: content creation, Probability: 0.195
+2025-04-28 11:29:27,128 - INFO - Keyword: content marketing, Probability: 0.686
+2025-04-28 11:29:27,128 - INFO - Keyword: content_creation, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: content_marketing, Probability: 0.510
+2025-04-28 11:29:27,128 - INFO - Keyword: creative_industries, Probability: 0.155
+2025-04-28 11:29:27,128 - INFO - Keyword: creativity, Probability: 0.139
+2025-04-28 11:29:27,128 - INFO - Keyword: crypto, Probability: 0.144
+2025-04-28 11:29:27,128 - INFO - Keyword: crypto basics, Probability: 0.136
+2025-04-28 11:29:27,128 - INFO - Keyword: cryptocurrency, Probability: 0.136
+2025-04-28 11:29:27,128 - INFO - Keyword: cybersecurity, Probability: 0.129
+2025-04-28 11:29:27,128 - INFO - Keyword: cybersecurity threats, Probability: 0.133
+2025-04-28 11:29:27,128 - INFO - Keyword: data science, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: design tools, Probability: 0.125
+2025-04-28 11:29:27,128 - INFO - Keyword: destinations, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: development, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: digital marketing, Probability: 0.174
+2025-04-28 11:29:27,128 - INFO - Keyword: digital_marketing, Probability: 0.177
+2025-04-28 11:29:27,128 - INFO - Keyword: digital_nomad, Probability: 0.137
+2025-04-28 11:29:27,128 - INFO - Keyword: dogs, Probability: 0.138
+2025-04-28 11:29:27,128 - INFO - Keyword: e-commerce, Probability: 0.156
+2025-04-28 11:29:27,128 - INFO - Keyword: eBook writing, Probability: 0.147
+2025-04-28 11:29:27,128 - INFO - Keyword: eco_friendly, Probability: 0.132
+2025-04-28 11:29:27,128 - INFO - Keyword: education, Probability: 0.137
+2025-04-28 11:29:27,128 - INFO - Keyword: electric_cars, Probability: 0.157
+2025-04-28 11:29:27,128 - INFO - Keyword: email marketing, Probability: 0.174
+2025-04-28 11:29:27,128 - INFO - Keyword: email_marketing, Probability: 0.173
+2025-04-28 11:29:27,128 - INFO - Keyword: engagement, Probability: 0.140
+2025-04-28 11:29:27,128 - INFO - Keyword: engineering, Probability: 0.129
+2025-04-28 11:29:27,128 - INFO - Keyword: enthusiasts, Probability: 0.411
+2025-04-28 11:29:27,128 - INFO - Keyword: entrepreneurship, Probability: 0.194
+2025-04-28 11:29:27,128 - INFO - Keyword: equipment, Probability: 0.130
+2025-04-28 11:29:27,128 - INFO - Keyword: europe, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: exercise, Probability: 0.143
+2025-04-28 11:29:27,128 - INFO - Keyword: exercises, Probability: 0.134
+2025-04-28 11:29:27,128 - INFO - Keyword: extra income, Probability: 0.131
+2025-04-28 11:29:27,128 - INFO - Keyword: finance, Probability: 0.220
+2025-04-28 11:29:27,128 - INFO - Keyword: financial planning, Probability: 0.128
+2025-04-28 11:29:27,128 - INFO - Keyword: fitness, Probability: 0.218
+2025-04-28 11:29:27,128 - INFO - Keyword: freelance, Probability: 0.139
+2025-04-28 11:29:27,128 - INFO - Keyword: freelancing, Probability: 0.131
+2025-04-28 11:29:27,128 - INFO - Keyword: future, Probability: 0.157
+2025-04-28 11:29:27,128 - INFO - Keyword: future tech, Probability: 0.146
+2025-04-28 11:29:27,128 - INFO - Keyword: future_of_work, Probability: 0.137
+2025-04-28 11:29:27,128 - INFO - Keyword: gadgets, Probability: 0.411
+2025-04-28 11:29:27,128 - INFO - Keyword: glowing skin, Probability: 0.135
+2025-04-28 11:29:27,128 - INFO - Keyword: glowing_skin, Probability: 0.133
+2025-04-28 11:29:27,128 - INFO - Keyword: graphic design, Probability: 0.125
+2025-04-28 11:29:27,128 - INFO - Keyword: graphic_design, Probability: 0.139
+2025-04-28 11:29:27,128 - INFO - Keyword: growth, Probability: 0.147
+2025-04-28 11:29:27,128 - INFO - Keyword: growth hacking, Probability: 0.167
+2025-04-28 11:29:27,128 - INFO - Keyword: health, Probability: 0.182
+2025-04-28 11:29:27,128 - INFO - Keyword: healthy, Probability: 0.131
+2025-04-28 11:29:27,128 - INFO - Keyword: healthy eating, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: healthy_eating, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: hiking, Probability: 0.130
+2025-04-28 11:29:27,129 - INFO - Keyword: home workouts, Probability: 0.143
+2025-04-28 11:29:27,129 - INFO - Keyword: home_workout, Probability: 0.130
+2025-04-28 11:29:27,129 - INFO - Keyword: impact, Probability: 0.155
+2025-04-28 11:29:27,129 - INFO - Keyword: innovation, Probability: 0.243
+2025-04-28 11:29:27,129 - INFO - Keyword: instagram, Probability: 0.411
+2025-04-28 11:29:27,129 - INFO - Keyword: investing, Probability: 0.194
+2025-04-28 11:29:27,129 - INFO - Keyword: job search, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: jobs, Probability: 0.129
+2025-04-28 11:29:27,129 - INFO - Keyword: journaling, Probability: 0.145
+2025-04-28 11:29:27,129 - INFO - Keyword: language learning, Probability: 0.137
+2025-04-28 11:29:27,129 - INFO - Keyword: learning, Probability: 0.155
+2025-04-28 11:29:27,129 - INFO - Keyword: linkedin, Probability: 0.147
+2025-04-28 11:29:27,129 - INFO - Keyword: marketing, Probability: 0.773
+2025-04-28 11:29:27,129 - INFO - Keyword: marketing strategies, Probability: 0.162
+2025-04-28 11:29:27,129 - INFO - Keyword: marketing strategy, Probability: 0.686
+2025-04-28 11:29:27,129 - INFO - Keyword: meal_prep, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: meditation, Probability: 0.159
+2025-04-28 11:29:27,129 - INFO - Keyword: mental health, Probability: 0.142
+2025-04-28 11:29:27,129 - INFO - Keyword: mental_health, Probability: 0.193
+2025-04-28 11:29:27,129 - INFO - Keyword: mindfulness, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: mindfulness meditation, Probability: 0.136
+2025-04-28 11:29:27,129 - INFO - Keyword: minimalist design, Probability: 0.128
+2025-04-28 11:29:27,129 - INFO - Keyword: mistakes, Probability: 0.174
+2025-04-28 11:29:27,129 - INFO - Keyword: mobile app design, Probability: 0.142
+2025-04-28 11:29:27,129 - INFO - Keyword: motivation, Probability: 0.140
+2025-04-28 11:29:27,129 - INFO - Keyword: networking, Probability: 0.147
+2025-04-28 11:29:27,129 - INFO - Keyword: nutrition, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: online courses, Probability: 0.129
+2025-04-28 11:29:27,129 - INFO - Keyword: online jobs, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: personal_branding, Probability: 0.411
+2025-04-28 11:29:27,129 - INFO - Keyword: personal_growth, Probability: 0.145
+2025-04-28 11:29:27,129 - INFO - Keyword: pet_care, Probability: 0.138
+2025-04-28 11:29:27,129 - INFO - Keyword: podcast, Probability: 0.140
+2025-04-28 11:29:27,129 - INFO - Keyword: podcast setup, Probability: 0.139
+2025-04-28 11:29:27,129 - INFO - Keyword: podcasting, Probability: 0.139
+2025-04-28 11:29:27,129 - INFO - Keyword: productivity, Probability: 0.220
+2025-04-28 11:29:27,129 - INFO - Keyword: products, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: professionals, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: programming, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: project management, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: public speaking, Probability: 0.129
+2025-04-28 11:29:27,129 - INFO - Keyword: public_speaking, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: real estate, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: recipes, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: remote teams, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: remote work, Probability: 0.159
+2025-04-28 11:29:27,129 - INFO - Keyword: remote_work, Probability: 0.137
+2025-04-28 11:29:27,129 - INFO - Keyword: resume writing, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: resume_writing, Probability: 0.137
+2025-04-28 11:29:27,129 - INFO - Keyword: saving money, Probability: 0.135
+2025-04-28 11:29:27,129 - INFO - Keyword: saving_money, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: security, Probability: 0.142
+2025-04-28 11:29:27,129 - INFO - Keyword: self care, Probability: 0.128
+2025-04-28 11:29:27,129 - INFO - Keyword: self improvement, Probability: 0.137
+2025-04-28 11:29:27,129 - INFO - Keyword: self publishing, Probability: 0.147
+2025-04-28 11:29:27,129 - INFO - Keyword: side hustle ideas, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: skills, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: skincare, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: skincare routine, Probability: 0.135
+2025-04-28 11:29:27,129 - INFO - Keyword: small business, Probability: 0.129
+2025-04-28 11:29:27,129 - INFO - Keyword: small_business, Probability: 0.510
+2025-04-28 11:29:27,129 - INFO - Keyword: smart investments, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: smoothie, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: social_media, Probability: 0.622
+2025-04-28 11:29:27,129 - INFO - Keyword: solo travel, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: solo_trip, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: startup, Probability: 0.170
+2025-04-28 11:29:27,129 - INFO - Keyword: startups, Probability: 0.167
+2025-04-28 11:29:27,129 - INFO - Keyword: stock_market, Probability: 0.137
+2025-04-28 11:29:27,129 - INFO - Keyword: stocks, Probability: 0.147
+2025-04-28 11:29:27,129 - INFO - Keyword: strategies, Probability: 0.173
+2025-04-28 11:29:27,129 - INFO - Keyword: strategy, Probability: 0.510
+2025-04-28 11:29:27,129 - INFO - Keyword: stress relief, Probability: 0.136
+2025-04-28 11:29:27,129 - INFO - Keyword: stress_relief, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: summer, Probability: 0.131
+2025-04-28 11:29:27,129 - INFO - Keyword: summer_adventure, Probability: 0.130
+2025-04-28 11:29:27,129 - INFO - Keyword: sustainability, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: technology, Probability: 0.350
+2025-04-28 11:29:27,129 - INFO - Keyword: tiktok, Probability: 0.140
+2025-04-28 11:29:27,129 - INFO - Keyword: time_management, Probability: 0.176
+2025-04-28 11:29:27,129 - INFO - Keyword: tips, Probability: 0.138
+2025-04-28 11:29:27,129 - INFO - Keyword: tools, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: tourism, Probability: 0.135
+2025-04-28 11:29:27,129 - INFO - Keyword: trails, Probability: 0.130
+2025-04-28 11:29:27,129 - INFO - Keyword: travel, Probability: 0.135
+2025-04-28 11:29:27,129 - INFO - Keyword: travel destinations, Probability: 0.132
+2025-04-28 11:29:27,129 - INFO - Keyword: travel_safety, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: trends, Probability: 0.145
+2025-04-28 11:29:27,129 - INFO - Keyword: ui_ux, Probability: 0.145
+2025-04-28 11:29:27,129 - INFO - Keyword: video marketing, Probability: 0.148
+2025-04-28 11:29:27,129 - INFO - Keyword: videos, Probability: 0.139
+2025-04-28 11:29:27,129 - INFO - Keyword: viral content, Probability: 0.126
+2025-04-28 11:29:27,129 - INFO - Keyword: viral_content, Probability: 0.507
+2025-04-28 11:29:27,129 - INFO - Keyword: web design, Probability: 0.128
+2025-04-28 11:29:27,129 - INFO - Keyword: website, Probability: 0.128
+2025-04-28 11:29:27,129 - INFO - Keyword: website creation, Probability: 0.140
+2025-04-28 11:29:27,129 - INFO - Keyword: website_design, Probability: 0.145
+2025-04-28 11:29:27,129 - INFO - Keyword: weight_loss, Probability: 0.134
+2025-04-28 11:29:27,129 - INFO - Keyword: wellbeing, Probability: 0.194
+2025-04-28 11:29:27,129 - INFO - Keyword: wellness, Probability: 0.199
+2025-04-28 11:29:27,129 - INFO - Keyword: work from home, Probability: 0.126
+2025-04-28 11:29:27,129 - INFO - Keyword: work-life balance, Probability: 0.133
+2025-04-28 11:29:27,129 - INFO - Keyword: work_from_home, Probability: 0.140
+2025-04-28 11:29:27,130 - INFO - Keyword: work_life_balance, Probability: 0.133
+2025-04-28 11:29:27,130 - INFO - Keyword: yoga, Probability: 0.154
+2025-04-28 11:29:27,130 - INFO - Keyword: young professionals, Probability: 0.128
+2025-04-28 11:30:17,028 - INFO - Loading model and encoder...
+2025-04-28 11:30:17,583 - INFO - Processing text: Okay, here are 5 blog titles and outlines geared towards a **business audience** interested in **con...
+2025-04-28 11:30:17,592 - INFO - Extracted keywords: ['ai', 'business', 'career', 'content creation', 'content marketing', 'content_marketing', 'creative_industries', 'digital_marketing', 'enthusiasts', 'entrepreneurship', 'finance', 'fitness', 'gadgets', 'impact', 'innovation', 'instagram', 'marketing', 'marketing strategy', 'mental_health', 'personal_branding', 'productivity', 'small_business', 'social_media', 'strategy', 'technology', 'viral_content', 'wellbeing', 'wellness']
+2025-04-28 11:30:17,592 - INFO - Keyword: AI, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: Canva, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: ML, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: NFTs, Probability: 0.146
+2025-04-28 11:30:17,592 - INFO - Keyword: SEO, Probability: 0.136
+2025-04-28 11:30:17,592 - INFO - Keyword: TikTok, Probability: 0.120
+2025-04-28 11:30:17,592 - INFO - Keyword: UI/UX, Probability: 0.152
+2025-04-28 11:30:17,592 - INFO - Keyword: WordPress, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: YouTube optimization, Probability: 0.136
+2025-04-28 11:30:17,592 - INFO - Keyword: adventure, Probability: 0.158
+2025-04-28 11:30:17,592 - INFO - Keyword: affordable, Probability: 0.133
+2025-04-28 11:30:17,592 - INFO - Keyword: ai, Probability: 0.296
+2025-04-28 11:30:17,592 - INFO - Keyword: app interface, Probability: 0.152
+2025-04-28 11:30:17,592 - INFO - Keyword: apps, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: art market, Probability: 0.146
+2025-04-28 11:30:17,592 - INFO - Keyword: awareness, Probability: 0.142
+2025-04-28 11:30:17,592 - INFO - Keyword: basics, Probability: 0.173
+2025-04-28 11:30:17,592 - INFO - Keyword: beauty, Probability: 0.136
+2025-04-28 11:30:17,592 - INFO - Keyword: beauty_routine, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: belly_fat, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: blockchain, Probability: 0.157
+2025-04-28 11:30:17,592 - INFO - Keyword: blogging, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: branding, Probability: 0.156
+2025-04-28 11:30:17,592 - INFO - Keyword: budget_travel, Probability: 0.145
+2025-04-28 11:30:17,592 - INFO - Keyword: budgeting, Probability: 0.142
+2025-04-28 11:30:17,592 - INFO - Keyword: business, Probability: 0.615
+2025-04-28 11:30:17,592 - INFO - Keyword: business growth, Probability: 0.156
+2025-04-28 11:30:17,592 - INFO - Keyword: business tips, Probability: 0.131
+2025-04-28 11:30:17,592 - INFO - Keyword: business_growth, Probability: 0.145
+2025-04-28 11:30:17,592 - INFO - Keyword: buying home, Probability: 0.132
+2025-04-28 11:30:17,592 - INFO - Keyword: career, Probability: 0.233
+2025-04-28 11:30:17,592 - INFO - Keyword: career growth, Probability: 0.131
+2025-04-28 11:30:17,592 - INFO - Keyword: career options, Probability: 0.132
+2025-04-28 11:30:17,592 - INFO - Keyword: career_tips, Probability: 0.141
+2025-04-28 11:30:17,592 - INFO - Keyword: coding practices, Probability: 0.141
+2025-04-28 11:30:17,592 - INFO - Keyword: collaboration, Probability: 0.152
+2025-04-28 11:30:17,592 - INFO - Keyword: communication, Probability: 0.143
+2025-04-28 11:30:17,592 - INFO - Keyword: confidence, Probability: 0.143
+2025-04-28 11:30:17,592 - INFO - Keyword: content creation, Probability: 0.201
+2025-04-28 11:30:17,592 - INFO - Keyword: content marketing, Probability: 0.572
+2025-04-28 11:30:17,592 - INFO - Keyword: content_creation, Probability: 0.152
+2025-04-28 11:30:17,592 - INFO - Keyword: content_marketing, Probability: 0.427
+2025-04-28 11:30:17,592 - INFO - Keyword: creative_industries, Probability: 0.224
+2025-04-28 11:30:17,592 - INFO - Keyword: creativity, Probability: 0.149
+2025-04-28 11:30:17,592 - INFO - Keyword: crypto, Probability: 0.146
+2025-04-28 11:30:17,592 - INFO - Keyword: crypto basics, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: cryptocurrency, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: cybersecurity, Probability: 0.146
+2025-04-28 11:30:17,592 - INFO - Keyword: cybersecurity threats, Probability: 0.153
+2025-04-28 11:30:17,592 - INFO - Keyword: data science, Probability: 0.132
+2025-04-28 11:30:17,592 - INFO - Keyword: design tools, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: destinations, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: development, Probability: 0.141
+2025-04-28 11:30:17,592 - INFO - Keyword: digital marketing, Probability: 0.159
+2025-04-28 11:30:17,592 - INFO - Keyword: digital_marketing, Probability: 0.223
+2025-04-28 11:30:17,592 - INFO - Keyword: digital_nomad, Probability: 0.130
+2025-04-28 11:30:17,592 - INFO - Keyword: dogs, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: e-commerce, Probability: 0.185
+2025-04-28 11:30:17,592 - INFO - Keyword: eBook writing, Probability: 0.148
+2025-04-28 11:30:17,592 - INFO - Keyword: eco_friendly, Probability: 0.131
+2025-04-28 11:30:17,592 - INFO - Keyword: education, Probability: 0.132
+2025-04-28 11:30:17,592 - INFO - Keyword: electric_cars, Probability: 0.139
+2025-04-28 11:30:17,592 - INFO - Keyword: email marketing, Probability: 0.159
+2025-04-28 11:30:17,592 - INFO - Keyword: email_marketing, Probability: 0.145
+2025-04-28 11:30:17,592 - INFO - Keyword: engagement, Probability: 0.130
+2025-04-28 11:30:17,592 - INFO - Keyword: engineering, Probability: 0.132
+2025-04-28 11:30:17,592 - INFO - Keyword: enthusiasts, Probability: 0.425
+2025-04-28 11:30:17,592 - INFO - Keyword: entrepreneurship, Probability: 0.225
+2025-04-28 11:30:17,592 - INFO - Keyword: equipment, Probability: 0.133
+2025-04-28 11:30:17,592 - INFO - Keyword: europe, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: exercise, Probability: 0.134
+2025-04-28 11:30:17,592 - INFO - Keyword: exercises, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: extra income, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: finance, Probability: 0.213
+2025-04-28 11:30:17,592 - INFO - Keyword: financial planning, Probability: 0.130
+2025-04-28 11:30:17,592 - INFO - Keyword: fitness, Probability: 0.219
+2025-04-28 11:30:17,592 - INFO - Keyword: freelance, Probability: 0.134
+2025-04-28 11:30:17,592 - INFO - Keyword: freelancing, Probability: 0.133
+2025-04-28 11:30:17,592 - INFO - Keyword: future, Probability: 0.139
+2025-04-28 11:30:17,592 - INFO - Keyword: future tech, Probability: 0.137
+2025-04-28 11:30:17,592 - INFO - Keyword: future_of_work, Probability: 0.130
+2025-04-28 11:30:17,592 - INFO - Keyword: gadgets, Probability: 0.425
+2025-04-28 11:30:17,592 - INFO - Keyword: glowing skin, Probability: 0.136
+2025-04-28 11:30:17,592 - INFO - Keyword: glowing_skin, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: graphic design, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: graphic_design, Probability: 0.149
+2025-04-28 11:30:17,592 - INFO - Keyword: growth, Probability: 0.130
+2025-04-28 11:30:17,592 - INFO - Keyword: growth hacking, Probability: 0.131
+2025-04-28 11:30:17,592 - INFO - Keyword: health, Probability: 0.186
+2025-04-28 11:30:17,592 - INFO - Keyword: healthy, Probability: 0.133
+2025-04-28 11:30:17,592 - INFO - Keyword: healthy eating, Probability: 0.135
+2025-04-28 11:30:17,592 - INFO - Keyword: healthy_eating, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: hiking, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: home workouts, Probability: 0.134
+2025-04-28 11:30:17,593 - INFO - Keyword: home_workout, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: impact, Probability: 0.224
+2025-04-28 11:30:17,593 - INFO - Keyword: innovation, Probability: 0.264
+2025-04-28 11:30:17,593 - INFO - Keyword: instagram, Probability: 0.425
+2025-04-28 11:30:17,593 - INFO - Keyword: investing, Probability: 0.176
+2025-04-28 11:30:17,593 - INFO - Keyword: job search, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: jobs, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: journaling, Probability: 0.155
+2025-04-28 11:30:17,593 - INFO - Keyword: language learning, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: learning, Probability: 0.155
+2025-04-28 11:30:17,593 - INFO - Keyword: linkedin, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: marketing, Probability: 0.747
+2025-04-28 11:30:17,593 - INFO - Keyword: marketing strategies, Probability: 0.156
+2025-04-28 11:30:17,593 - INFO - Keyword: marketing strategy, Probability: 0.572
+2025-04-28 11:30:17,593 - INFO - Keyword: meal_prep, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: meditation, Probability: 0.161
+2025-04-28 11:30:17,593 - INFO - Keyword: mental health, Probability: 0.145
+2025-04-28 11:30:17,593 - INFO - Keyword: mental_health, Probability: 0.205
+2025-04-28 11:30:17,593 - INFO - Keyword: mindfulness, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: mindfulness meditation, Probability: 0.142
+2025-04-28 11:30:17,593 - INFO - Keyword: minimalist design, Probability: 0.149
+2025-04-28 11:30:17,593 - INFO - Keyword: mistakes, Probability: 0.159
+2025-04-28 11:30:17,593 - INFO - Keyword: mobile app design, Probability: 0.152
+2025-04-28 11:30:17,593 - INFO - Keyword: motivation, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: networking, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: nutrition, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: online courses, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: online jobs, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: personal_branding, Probability: 0.425
+2025-04-28 11:30:17,593 - INFO - Keyword: personal_growth, Probability: 0.155
+2025-04-28 11:30:17,593 - INFO - Keyword: pet_care, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: podcast, Probability: 0.152
+2025-04-28 11:30:17,593 - INFO - Keyword: podcast setup, Probability: 0.146
+2025-04-28 11:30:17,593 - INFO - Keyword: podcasting, Probability: 0.146
+2025-04-28 11:30:17,593 - INFO - Keyword: productivity, Probability: 0.222
+2025-04-28 11:30:17,593 - INFO - Keyword: products, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: professionals, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: programming, Probability: 0.141
+2025-04-28 11:30:17,593 - INFO - Keyword: project management, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: public speaking, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: public_speaking, Probability: 0.136
+2025-04-28 11:30:17,593 - INFO - Keyword: real estate, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: recipes, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: remote teams, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: remote work, Probability: 0.165
+2025-04-28 11:30:17,593 - INFO - Keyword: remote_work, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: resume writing, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: resume_writing, Probability: 0.141
+2025-04-28 11:30:17,593 - INFO - Keyword: saving money, Probability: 0.142
+2025-04-28 11:30:17,593 - INFO - Keyword: saving_money, Probability: 0.145
+2025-04-28 11:30:17,593 - INFO - Keyword: security, Probability: 0.166
+2025-04-28 11:30:17,593 - INFO - Keyword: self care, Probability: 0.129
+2025-04-28 11:30:17,593 - INFO - Keyword: self improvement, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: self publishing, Probability: 0.148
+2025-04-28 11:30:17,593 - INFO - Keyword: side hustle ideas, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: skills, Probability: 0.141
+2025-04-28 11:30:17,593 - INFO - Keyword: skincare, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: skincare routine, Probability: 0.136
+2025-04-28 11:30:17,593 - INFO - Keyword: small business, Probability: 0.146
+2025-04-28 11:30:17,593 - INFO - Keyword: small_business, Probability: 0.427
+2025-04-28 11:30:17,593 - INFO - Keyword: smart investments, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: smoothie, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: social_media, Probability: 0.636
+2025-04-28 11:30:17,593 - INFO - Keyword: solo travel, Probability: 0.134
+2025-04-28 11:30:17,593 - INFO - Keyword: solo_trip, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: startup, Probability: 0.175
+2025-04-28 11:30:17,593 - INFO - Keyword: startups, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: stock_market, Probability: 0.134
+2025-04-28 11:30:17,593 - INFO - Keyword: stocks, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: strategies, Probability: 0.145
+2025-04-28 11:30:17,593 - INFO - Keyword: strategy, Probability: 0.427
+2025-04-28 11:30:17,593 - INFO - Keyword: stress relief, Probability: 0.142
+2025-04-28 11:30:17,593 - INFO - Keyword: stress_relief, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: summer, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: summer_adventure, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: sustainability, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: technology, Probability: 0.354
+2025-04-28 11:30:17,593 - INFO - Keyword: tiktok, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: time_management, Probability: 0.184
+2025-04-28 11:30:17,593 - INFO - Keyword: tips, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: tools, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: tourism, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: trails, Probability: 0.132
+2025-04-28 11:30:17,593 - INFO - Keyword: travel, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: travel destinations, Probability: 0.134
+2025-04-28 11:30:17,593 - INFO - Keyword: travel_safety, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: trends, Probability: 0.159
+2025-04-28 11:30:17,593 - INFO - Keyword: ui_ux, Probability: 0.159
+2025-04-28 11:30:17,593 - INFO - Keyword: video marketing, Probability: 0.136
+2025-04-28 11:30:17,593 - INFO - Keyword: videos, Probability: 0.130
+2025-04-28 11:30:17,593 - INFO - Keyword: viral content, Probability: 0.120
+2025-04-28 11:30:17,593 - INFO - Keyword: viral_content, Probability: 0.516
+2025-04-28 11:30:17,593 - INFO - Keyword: web design, Probability: 0.149
+2025-04-28 11:30:17,593 - INFO - Keyword: website, Probability: 0.149
+2025-04-28 11:30:17,593 - INFO - Keyword: website creation, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: website_design, Probability: 0.159
+2025-04-28 11:30:17,593 - INFO - Keyword: weight_loss, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: wellbeing, Probability: 0.203
+2025-04-28 11:30:17,593 - INFO - Keyword: wellness, Probability: 0.203
+2025-04-28 11:30:17,593 - INFO - Keyword: work from home, Probability: 0.131
+2025-04-28 11:30:17,593 - INFO - Keyword: work-life balance, Probability: 0.135
+2025-04-28 11:30:17,593 - INFO - Keyword: work_from_home, Probability: 0.133
+2025-04-28 11:30:17,593 - INFO - Keyword: work_life_balance, Probability: 0.137
+2025-04-28 11:30:17,593 - INFO - Keyword: yoga, Probability: 0.161
+2025-04-28 11:30:17,593 - INFO - Keyword: young professionals, Probability: 0.130
+2025-04-28 11:42:59,780 - INFO - Loading model and encoder...
+2025-04-28 11:43:00,439 - INFO - Processing text: Okay, here are 5 blog titles and outlines that bridge the world of movies and the world of business,...
+2025-04-28 11:43:00,448 - INFO - Extracted keywords: ['ai', 'branding', 'business', 'business growth', 'business tips', 'career', 'content_marketing', 'cybersecurity', 'cybersecurity threats', 'digital_marketing', 'e-commerce', 'enthusiasts', 'entrepreneurship', 'finance', 'fitness', 'gadgets', 'growth hacking', 'innovation', 'instagram', 'investing', 'marketing', 'marketing strategies', 'personal_branding', 'productivity', 'security', 'small business', 'small_business', 'social_media', 'startups', 'strategy', 'technology']
+2025-04-28 11:43:00,448 - INFO - Keyword: AI, Probability: 0.132
+2025-04-28 11:43:00,448 - INFO - Keyword: Canva, Probability: 0.129
+2025-04-28 11:43:00,448 - INFO - Keyword: ML, Probability: 0.132
+2025-04-28 11:43:00,448 - INFO - Keyword: NFTs, Probability: 0.183
+2025-04-28 11:43:00,448 - INFO - Keyword: SEO, Probability: 0.123
+2025-04-28 11:43:00,448 - INFO - Keyword: TikTok, Probability: 0.124
+2025-04-28 11:43:00,448 - INFO - Keyword: UI/UX, Probability: 0.133
+2025-04-28 11:43:00,448 - INFO - Keyword: WordPress, Probability: 0.121
+2025-04-28 11:43:00,448 - INFO - Keyword: YouTube optimization, Probability: 0.123
+2025-04-28 11:43:00,448 - INFO - Keyword: adventure, Probability: 0.142
+2025-04-28 11:43:00,448 - INFO - Keyword: affordable, Probability: 0.136
+2025-04-28 11:43:00,448 - INFO - Keyword: ai, Probability: 0.248
+2025-04-28 11:43:00,448 - INFO - Keyword: app interface, Probability: 0.133
+2025-04-28 11:43:00,448 - INFO - Keyword: apps, Probability: 0.125
+2025-04-28 11:43:00,448 - INFO - Keyword: art market, Probability: 0.183
+2025-04-28 11:43:00,448 - INFO - Keyword: awareness, Probability: 0.149
+2025-04-28 11:43:00,448 - INFO - Keyword: basics, Probability: 0.170
+2025-04-28 11:43:00,448 - INFO - Keyword: beauty, Probability: 0.124
+2025-04-28 11:43:00,448 - INFO - Keyword: beauty_routine, Probability: 0.122
+2025-04-28 11:43:00,448 - INFO - Keyword: belly_fat, Probability: 0.125
+2025-04-28 11:43:00,448 - INFO - Keyword: blockchain, Probability: 0.160
+2025-04-28 11:43:00,448 - INFO - Keyword: blogging, Probability: 0.121
+2025-04-28 11:43:00,448 - INFO - Keyword: branding, Probability: 0.555
+2025-04-28 11:43:00,448 - INFO - Keyword: budget_travel, Probability: 0.125
+2025-04-28 11:43:00,448 - INFO - Keyword: budgeting, Probability: 0.123
+2025-04-28 11:43:00,448 - INFO - Keyword: business, Probability: 0.754
+2025-04-28 11:43:00,448 - INFO - Keyword: business growth, Probability: 0.555
+2025-04-28 11:43:00,448 - INFO - Keyword: business tips, Probability: 0.218
+2025-04-28 11:43:00,448 - INFO - Keyword: business_growth, Probability: 0.188
+2025-04-28 11:43:00,448 - INFO - Keyword: buying home, Probability: 0.128
+2025-04-28 11:43:00,448 - INFO - Keyword: career, Probability: 0.221
+2025-04-28 11:43:00,448 - INFO - Keyword: career growth, Probability: 0.118
+2025-04-28 11:43:00,448 - INFO - Keyword: career options, Probability: 0.117
+2025-04-28 11:43:00,448 - INFO - Keyword: career_tips, Probability: 0.123
+2025-04-28 11:43:00,448 - INFO - Keyword: coding practices, Probability: 0.139
+2025-04-28 11:43:00,448 - INFO - Keyword: collaboration, Probability: 0.182
+2025-04-28 11:43:00,448 - INFO - Keyword: communication, Probability: 0.132
+2025-04-28 11:43:00,448 - INFO - Keyword: confidence, Probability: 0.132
+2025-04-28 11:43:00,448 - INFO - Keyword: content creation, Probability: 0.163
+2025-04-28 11:43:00,448 - INFO - Keyword: content marketing, Probability: 0.178
+2025-04-28 11:43:00,448 - INFO - Keyword: content_creation, Probability: 0.111
+2025-04-28 11:43:00,448 - INFO - Keyword: content_marketing, Probability: 0.249
+2025-04-28 11:43:00,448 - INFO - Keyword: creative_industries, Probability: 0.176
+2025-04-28 11:43:00,448 - INFO - Keyword: creativity, Probability: 0.126
+2025-04-28 11:43:00,448 - INFO - Keyword: crypto, Probability: 0.183
+2025-04-28 11:43:00,448 - INFO - Keyword: crypto basics, Probability: 0.134
+2025-04-28 11:43:00,448 - INFO - Keyword: cryptocurrency, Probability: 0.134
+2025-04-28 11:43:00,448 - INFO - Keyword: cybersecurity, Probability: 0.213
+2025-04-28 11:43:00,448 - INFO - Keyword: cybersecurity threats, Probability: 0.248
+2025-04-28 11:43:00,448 - INFO - Keyword: data science, Probability: 0.128
+2025-04-28 11:43:00,448 - INFO - Keyword: design tools, Probability: 0.129
+2025-04-28 11:43:00,448 - INFO - Keyword: destinations, Probability: 0.125
+2025-04-28 11:43:00,448 - INFO - Keyword: development, Probability: 0.139
+2025-04-28 11:43:00,448 - INFO - Keyword: digital marketing, Probability: 0.169
+2025-04-28 11:43:00,448 - INFO - Keyword: digital_marketing, Probability: 0.209
+2025-04-28 11:43:00,448 - INFO - Keyword: digital_nomad, Probability: 0.143
+2025-04-28 11:43:00,448 - INFO - Keyword: dogs, Probability: 0.139
+2025-04-28 11:43:00,448 - INFO - Keyword: e-commerce, Probability: 0.658
+2025-04-28 11:43:00,448 - INFO - Keyword: eBook writing, Probability: 0.120
+2025-04-28 11:43:00,448 - INFO - Keyword: eco_friendly, Probability: 0.118
+2025-04-28 11:43:00,448 - INFO - Keyword: education, Probability: 0.143
+2025-04-28 11:43:00,448 - INFO - Keyword: electric_cars, Probability: 0.123
+2025-04-28 11:43:00,448 - INFO - Keyword: email marketing, Probability: 0.169
+2025-04-28 11:43:00,448 - INFO - Keyword: email_marketing, Probability: 0.188
+2025-04-28 11:43:00,448 - INFO - Keyword: engagement, Probability: 0.126
+2025-04-28 11:43:00,449 - INFO - Keyword: engineering, Probability: 0.117
+2025-04-28 11:43:00,449 - INFO - Keyword: enthusiasts, Probability: 0.349
+2025-04-28 11:43:00,449 - INFO - Keyword: entrepreneurship, Probability: 0.602
+2025-04-28 11:43:00,449 - INFO - Keyword: equipment, Probability: 0.136
+2025-04-28 11:43:00,449 - INFO - Keyword: europe, Probability: 0.125
+2025-04-28 11:43:00,449 - INFO - Keyword: exercise, Probability: 0.131
+2025-04-28 11:43:00,449 - INFO - Keyword: exercises, Probability: 0.125
+2025-04-28 11:43:00,449 - INFO - Keyword: extra income, Probability: 0.126
+2025-04-28 11:43:00,449 - INFO - Keyword: finance, Probability: 0.266
+2025-04-28 11:43:00,449 - INFO - Keyword: financial planning, Probability: 0.168
+2025-04-28 11:43:00,449 - INFO - Keyword: fitness, Probability: 0.204
+2025-04-28 11:43:00,449 - INFO - Keyword: freelance, Probability: 0.131
+2025-04-28 11:43:00,449 - INFO - Keyword: freelancing, Probability: 0.119
+2025-04-28 11:43:00,449 - INFO - Keyword: future, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: future tech, Probability: 0.119
+2025-04-28 11:43:00,449 - INFO - Keyword: future_of_work, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: gadgets, Probability: 0.349
+2025-04-28 11:43:00,449 - INFO - Keyword: glowing skin, Probability: 0.124
+2025-04-28 11:43:00,449 - INFO - Keyword: glowing_skin, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: graphic design, Probability: 0.129
+2025-04-28 11:43:00,449 - INFO - Keyword: graphic_design, Probability: 0.126
+2025-04-28 11:43:00,449 - INFO - Keyword: growth, Probability: 0.163
+2025-04-28 11:43:00,449 - INFO - Keyword: growth hacking, Probability: 0.218
+2025-04-28 11:43:00,449 - INFO - Keyword: health, Probability: 0.164
+2025-04-28 11:43:00,449 - INFO - Keyword: healthy, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: healthy eating, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: healthy_eating, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: hiking, Probability: 0.118
+2025-04-28 11:43:00,449 - INFO - Keyword: home workouts, Probability: 0.131
+2025-04-28 11:43:00,449 - INFO - Keyword: home_workout, Probability: 0.136
+2025-04-28 11:43:00,449 - INFO - Keyword: impact, Probability: 0.176
+2025-04-28 11:43:00,449 - INFO - Keyword: innovation, Probability: 0.235
+2025-04-28 11:43:00,449 - INFO - Keyword: instagram, Probability: 0.349
+2025-04-28 11:43:00,449 - INFO - Keyword: investing, Probability: 0.211
+2025-04-28 11:43:00,449 - INFO - Keyword: job search, Probability: 0.135
+2025-04-28 11:43:00,449 - INFO - Keyword: jobs, Probability: 0.117
+2025-04-28 11:43:00,449 - INFO - Keyword: journaling, Probability: 0.136
+2025-04-28 11:43:00,449 - INFO - Keyword: language learning, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: learning, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: linkedin, Probability: 0.163
+2025-04-28 11:43:00,449 - INFO - Keyword: marketing, Probability: 0.365
+2025-04-28 11:43:00,449 - INFO - Keyword: marketing strategies, Probability: 0.555
+2025-04-28 11:43:00,449 - INFO - Keyword: marketing strategy, Probability: 0.178
+2025-04-28 11:43:00,449 - INFO - Keyword: meal_prep, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: meditation, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: mental health, Probability: 0.132
+2025-04-28 11:43:00,449 - INFO - Keyword: mental_health, Probability: 0.198
+2025-04-28 11:43:00,449 - INFO - Keyword: mindfulness, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: mindfulness meditation, Probability: 0.128
+2025-04-28 11:43:00,449 - INFO - Keyword: minimalist design, Probability: 0.124
+2025-04-28 11:43:00,449 - INFO - Keyword: mistakes, Probability: 0.169
+2025-04-28 11:43:00,449 - INFO - Keyword: mobile app design, Probability: 0.133
+2025-04-28 11:43:00,449 - INFO - Keyword: motivation, Probability: 0.128
+2025-04-28 11:43:00,449 - INFO - Keyword: networking, Probability: 0.163
+2025-04-28 11:43:00,449 - INFO - Keyword: nutrition, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: online courses, Probability: 0.118
+2025-04-28 11:43:00,449 - INFO - Keyword: online jobs, Probability: 0.119
+2025-04-28 11:43:00,449 - INFO - Keyword: personal_branding, Probability: 0.349
+2025-04-28 11:43:00,449 - INFO - Keyword: personal_growth, Probability: 0.136
+2025-04-28 11:43:00,449 - INFO - Keyword: pet_care, Probability: 0.139
+2025-04-28 11:43:00,449 - INFO - Keyword: podcast, Probability: 0.111
+2025-04-28 11:43:00,449 - INFO - Keyword: podcast setup, Probability: 0.133
+2025-04-28 11:43:00,449 - INFO - Keyword: podcasting, Probability: 0.133
+2025-04-28 11:43:00,449 - INFO - Keyword: productivity, Probability: 0.229
+2025-04-28 11:43:00,449 - INFO - Keyword: products, Probability: 0.118
+2025-04-28 11:43:00,449 - INFO - Keyword: professionals, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: programming, Probability: 0.139
+2025-04-28 11:43:00,449 - INFO - Keyword: project management, Probability: 0.153
+2025-04-28 11:43:00,449 - INFO - Keyword: public speaking, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: public_speaking, Probability: 0.124
+2025-04-28 11:43:00,449 - INFO - Keyword: real estate, Probability: 0.128
+2025-04-28 11:43:00,449 - INFO - Keyword: recipes, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: remote teams, Probability: 0.153
+2025-04-28 11:43:00,449 - INFO - Keyword: remote work, Probability: 0.177
+2025-04-28 11:43:00,449 - INFO - Keyword: remote_work, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: resume writing, Probability: 0.135
+2025-04-28 11:43:00,449 - INFO - Keyword: resume_writing, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: saving money, Probability: 0.123
+2025-04-28 11:43:00,449 - INFO - Keyword: saving_money, Probability: 0.125
+2025-04-28 11:43:00,449 - INFO - Keyword: security, Probability: 0.275
+2025-04-28 11:43:00,449 - INFO - Keyword: self care, Probability: 0.121
+2025-04-28 11:43:00,449 - INFO - Keyword: self improvement, Probability: 0.143
+2025-04-28 11:43:00,449 - INFO - Keyword: self publishing, Probability: 0.120
+2025-04-28 11:43:00,449 - INFO - Keyword: side hustle ideas, Probability: 0.126
+2025-04-28 11:43:00,449 - INFO - Keyword: skills, Probability: 0.157
+2025-04-28 11:43:00,449 - INFO - Keyword: skincare, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: skincare routine, Probability: 0.124
+2025-04-28 11:43:00,449 - INFO - Keyword: small business, Probability: 0.213
+2025-04-28 11:43:00,449 - INFO - Keyword: small_business, Probability: 0.249
+2025-04-28 11:43:00,449 - INFO - Keyword: smart investments, Probability: 0.128
+2025-04-28 11:43:00,449 - INFO - Keyword: smoothie, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: social_media, Probability: 0.292
+2025-04-28 11:43:00,449 - INFO - Keyword: solo travel, Probability: 0.122
+2025-04-28 11:43:00,449 - INFO - Keyword: solo_trip, Probability: 0.125
+2025-04-28 11:43:00,449 - INFO - Keyword: startup, Probability: 0.140
+2025-04-28 11:43:00,449 - INFO - Keyword: startups, Probability: 0.218
+2025-04-28 11:43:00,449 - INFO - Keyword: stock_market, Probability: 0.151
+2025-04-28 11:43:00,450 - INFO - Keyword: stocks, Probability: 0.153
+2025-04-28 11:43:00,450 - INFO - Keyword: strategies, Probability: 0.188
+2025-04-28 11:43:00,450 - INFO - Keyword: strategy, Probability: 0.249
+2025-04-28 11:43:00,450 - INFO - Keyword: stress relief, Probability: 0.128
+2025-04-28 11:43:00,450 - INFO - Keyword: stress_relief, Probability: 0.122
+2025-04-28 11:43:00,450 - INFO - Keyword: summer, Probability: 0.122
+2025-04-28 11:43:00,450 - INFO - Keyword: summer_adventure, Probability: 0.118
+2025-04-28 11:43:00,450 - INFO - Keyword: sustainability, Probability: 0.118
+2025-04-28 11:43:00,450 - INFO - Keyword: technology, Probability: 0.328
+2025-04-28 11:43:00,450 - INFO - Keyword: tiktok, Probability: 0.126
+2025-04-28 11:43:00,450 - INFO - Keyword: time_management, Probability: 0.191
+2025-04-28 11:43:00,450 - INFO - Keyword: tips, Probability: 0.139
+2025-04-28 11:43:00,450 - INFO - Keyword: tools, Probability: 0.125
+2025-04-28 11:43:00,450 - INFO - Keyword: tourism, Probability: 0.125
+2025-04-28 11:43:00,450 - INFO - Keyword: trails, Probability: 0.118
+2025-04-28 11:43:00,450 - INFO - Keyword: travel, Probability: 0.125
+2025-04-28 11:43:00,450 - INFO - Keyword: travel destinations, Probability: 0.122
+2025-04-28 11:43:00,450 - INFO - Keyword: travel_safety, Probability: 0.125
+2025-04-28 11:43:00,450 - INFO - Keyword: trends, Probability: 0.128
+2025-04-28 11:43:00,450 - INFO - Keyword: ui_ux, Probability: 0.128
+2025-04-28 11:43:00,450 - INFO - Keyword: video marketing, Probability: 0.123
+2025-04-28 11:43:00,450 - INFO - Keyword: videos, Probability: 0.131
+2025-04-28 11:43:00,450 - INFO - Keyword: viral content, Probability: 0.124
+2025-04-28 11:43:00,450 - INFO - Keyword: viral_content, Probability: 0.132
+2025-04-28 11:43:00,450 - INFO - Keyword: web design, Probability: 0.124
+2025-04-28 11:43:00,450 - INFO - Keyword: website, Probability: 0.124
+2025-04-28 11:43:00,450 - INFO - Keyword: website creation, Probability: 0.121
+2025-04-28 11:43:00,450 - INFO - Keyword: website_design, Probability: 0.128
+2025-04-28 11:43:00,450 - INFO - Keyword: weight_loss, Probability: 0.125
+2025-04-28 11:43:00,450 - INFO - Keyword: wellbeing, Probability: 0.195
+2025-04-28 11:43:00,450 - INFO - Keyword: wellness, Probability: 0.183
+2025-04-28 11:43:00,450 - INFO - Keyword: work from home, Probability: 0.153
+2025-04-28 11:43:00,450 - INFO - Keyword: work-life balance, Probability: 0.126
+2025-04-28 11:43:00,450 - INFO - Keyword: work_from_home, Probability: 0.128
+2025-04-28 11:43:00,450 - INFO - Keyword: work_life_balance, Probability: 0.141
+2025-04-28 11:43:00,450 - INFO - Keyword: yoga, Probability: 0.142
+2025-04-28 11:43:00,450 - INFO - Keyword: young professionals, Probability: 0.168
+2025-04-29 22:49:03,936 - INFO - Loading model and encoder...
+2025-04-29 22:49:04,535 - INFO - Processing text: ```rtf
+{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;\red...
+2025-04-29 22:49:04,543 - INFO - Extracted keywords: ['beauty_routine', 'career', 'career growth', 'career options', 'collaboration', 'dogs', 'eco_friendly', 'education', 'engineering', 'enthusiasts', 'finance', 'fitness', 'freelancing', 'gadgets', 'glowing_skin', 'growth', 'hiking', 'instagram', 'investing', 'jobs', 'language learning', 'learning', 'linkedin', 'marketing', 'networking', 'online courses', 'online jobs', 'personal_branding', 'pet_care', 'productivity', 'products', 'remote work', 'self improvement', 'skincare', 'social_media', 'stocks', 'summer_adventure', 'sustainability', 'technology', 'tips', 'trails', 'work from home']
+2025-04-29 22:49:04,543 - INFO - Keyword: AI, Probability: 0.122
+2025-04-29 22:49:04,543 - INFO - Keyword: Canva, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: ML, Probability: 0.122
+2025-04-29 22:49:04,543 - INFO - Keyword: NFTs, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: SEO, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: TikTok, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: UI/UX, Probability: 0.125
+2025-04-29 22:49:04,543 - INFO - Keyword: WordPress, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: YouTube optimization, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: adventure, Probability: 0.151
+2025-04-29 22:49:04,543 - INFO - Keyword: affordable, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: ai, Probability: 0.149
+2025-04-29 22:49:04,543 - INFO - Keyword: app interface, Probability: 0.125
+2025-04-29 22:49:04,543 - INFO - Keyword: apps, Probability: 0.132
+2025-04-29 22:49:04,543 - INFO - Keyword: art market, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: awareness, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: basics, Probability: 0.152
+2025-04-29 22:49:04,543 - INFO - Keyword: beauty, Probability: 0.126
+2025-04-29 22:49:04,543 - INFO - Keyword: beauty_routine, Probability: 0.202
+2025-04-29 22:49:04,543 - INFO - Keyword: belly_fat, Probability: 0.132
+2025-04-29 22:49:04,543 - INFO - Keyword: blockchain, Probability: 0.148
+2025-04-29 22:49:04,543 - INFO - Keyword: blogging, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: branding, Probability: 0.121
+2025-04-29 22:49:04,543 - INFO - Keyword: budget_travel, Probability: 0.132
+2025-04-29 22:49:04,543 - INFO - Keyword: budgeting, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: business, Probability: 0.195
+2025-04-29 22:49:04,543 - INFO - Keyword: business growth, Probability: 0.121
+2025-04-29 22:49:04,543 - INFO - Keyword: business tips, Probability: 0.119
+2025-04-29 22:49:04,543 - INFO - Keyword: business_growth, Probability: 0.123
+2025-04-29 22:49:04,543 - INFO - Keyword: buying home, Probability: 0.125
+2025-04-29 22:49:04,543 - INFO - Keyword: career, Probability: 0.336
+2025-04-29 22:49:04,543 - INFO - Keyword: career growth, Probability: 0.240
+2025-04-29 22:49:04,543 - INFO - Keyword: career options, Probability: 0.362
+2025-04-29 22:49:04,543 - INFO - Keyword: career_tips, Probability: 0.118
+2025-04-29 22:49:04,543 - INFO - Keyword: coding practices, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: collaboration, Probability: 0.220
+2025-04-29 22:49:04,543 - INFO - Keyword: communication, Probability: 0.134
+2025-04-29 22:49:04,543 - INFO - Keyword: confidence, Probability: 0.134
+2025-04-29 22:49:04,543 - INFO - Keyword: content creation, Probability: 0.167
+2025-04-29 22:49:04,543 - INFO - Keyword: content marketing, Probability: 0.126
+2025-04-29 22:49:04,543 - INFO - Keyword: content_creation, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: content_marketing, Probability: 0.122
+2025-04-29 22:49:04,543 - INFO - Keyword: creative_industries, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: creativity, Probability: 0.125
+2025-04-29 22:49:04,543 - INFO - Keyword: crypto, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: crypto basics, Probability: 0.131
+2025-04-29 22:49:04,543 - INFO - Keyword: cryptocurrency, Probability: 0.131
+2025-04-29 22:49:04,543 - INFO - Keyword: cybersecurity, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: cybersecurity threats, Probability: 0.131
+2025-04-29 22:49:04,543 - INFO - Keyword: data science, Probability: 0.118
+2025-04-29 22:49:04,543 - INFO - Keyword: design tools, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: destinations, Probability: 0.132
+2025-04-29 22:49:04,543 - INFO - Keyword: development, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: digital marketing, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: digital_marketing, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: digital_nomad, Probability: 0.121
+2025-04-29 22:49:04,543 - INFO - Keyword: dogs, Probability: 0.686
+2025-04-29 22:49:04,543 - INFO - Keyword: e-commerce, Probability: 0.129
+2025-04-29 22:49:04,543 - INFO - Keyword: eBook writing, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: eco_friendly, Probability: 0.284
+2025-04-29 22:49:04,543 - INFO - Keyword: education, Probability: 0.547
+2025-04-29 22:49:04,543 - INFO - Keyword: electric_cars, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: email marketing, Probability: 0.130
+2025-04-29 22:49:04,543 - INFO - Keyword: email_marketing, Probability: 0.123
+2025-04-29 22:49:04,543 - INFO - Keyword: engagement, Probability: 0.128
+2025-04-29 22:49:04,543 - INFO - Keyword: engineering, Probability: 0.362
+2025-04-29 22:49:04,543 - INFO - Keyword: enthusiasts, Probability: 0.397
+2025-04-29 22:49:04,543 - INFO - Keyword: entrepreneurship, Probability: 0.168
+2025-04-29 22:49:04,544 - INFO - Keyword: equipment, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: europe, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: exercise, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: exercises, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: extra income, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: finance, Probability: 0.283
+2025-04-29 22:49:04,544 - INFO - Keyword: financial planning, Probability: 0.114
+2025-04-29 22:49:04,544 - INFO - Keyword: fitness, Probability: 0.201
+2025-04-29 22:49:04,544 - INFO - Keyword: freelance, Probability: 0.121
+2025-04-29 22:49:04,544 - INFO - Keyword: freelancing, Probability: 0.345
+2025-04-29 22:49:04,544 - INFO - Keyword: future, Probability: 0.130
+2025-04-29 22:49:04,544 - INFO - Keyword: future tech, Probability: 0.128
+2025-04-29 22:49:04,544 - INFO - Keyword: future_of_work, Probability: 0.121
+2025-04-29 22:49:04,544 - INFO - Keyword: gadgets, Probability: 0.397
+2025-04-29 22:49:04,544 - INFO - Keyword: glowing skin, Probability: 0.126
+2025-04-29 22:49:04,544 - INFO - Keyword: glowing_skin, Probability: 0.202
+2025-04-29 22:49:04,544 - INFO - Keyword: graphic design, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: graphic_design, Probability: 0.125
+2025-04-29 22:49:04,544 - INFO - Keyword: growth, Probability: 0.301
+2025-04-29 22:49:04,544 - INFO - Keyword: growth hacking, Probability: 0.119
+2025-04-29 22:49:04,544 - INFO - Keyword: health, Probability: 0.169
+2025-04-29 22:49:04,544 - INFO - Keyword: healthy, Probability: 0.120
+2025-04-29 22:49:04,544 - INFO - Keyword: healthy eating, Probability: 0.130
+2025-04-29 22:49:04,544 - INFO - Keyword: healthy_eating, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: hiking, Probability: 0.352
+2025-04-29 22:49:04,544 - INFO - Keyword: home workouts, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: home_workout, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: impact, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: innovation, Probability: 0.169
+2025-04-29 22:49:04,544 - INFO - Keyword: instagram, Probability: 0.397
+2025-04-29 22:49:04,544 - INFO - Keyword: investing, Probability: 0.272
+2025-04-29 22:49:04,544 - INFO - Keyword: job search, Probability: 0.119
+2025-04-29 22:49:04,544 - INFO - Keyword: jobs, Probability: 0.362
+2025-04-29 22:49:04,544 - INFO - Keyword: journaling, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: language learning, Probability: 0.547
+2025-04-29 22:49:04,544 - INFO - Keyword: learning, Probability: 0.216
+2025-04-29 22:49:04,544 - INFO - Keyword: linkedin, Probability: 0.301
+2025-04-29 22:49:04,544 - INFO - Keyword: marketing, Probability: 0.279
+2025-04-29 22:49:04,544 - INFO - Keyword: marketing strategies, Probability: 0.121
+2025-04-29 22:49:04,544 - INFO - Keyword: marketing strategy, Probability: 0.126
+2025-04-29 22:49:04,544 - INFO - Keyword: meal_prep, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: meditation, Probability: 0.150
+2025-04-29 22:49:04,544 - INFO - Keyword: mental health, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: mental_health, Probability: 0.170
+2025-04-29 22:49:04,544 - INFO - Keyword: mindfulness, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: mindfulness meditation, Probability: 0.127
+2025-04-29 22:49:04,544 - INFO - Keyword: minimalist design, Probability: 0.115
+2025-04-29 22:49:04,544 - INFO - Keyword: mistakes, Probability: 0.130
+2025-04-29 22:49:04,544 - INFO - Keyword: mobile app design, Probability: 0.125
+2025-04-29 22:49:04,544 - INFO - Keyword: motivation, Probability: 0.128
+2025-04-29 22:49:04,544 - INFO - Keyword: networking, Probability: 0.301
+2025-04-29 22:49:04,544 - INFO - Keyword: nutrition, Probability: 0.130
+2025-04-29 22:49:04,544 - INFO - Keyword: online courses, Probability: 0.240
+2025-04-29 22:49:04,544 - INFO - Keyword: online jobs, Probability: 0.345
+2025-04-29 22:49:04,544 - INFO - Keyword: personal_branding, Probability: 0.397
+2025-04-29 22:49:04,544 - INFO - Keyword: personal_growth, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: pet_care, Probability: 0.686
+2025-04-29 22:49:04,544 - INFO - Keyword: podcast, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: podcast setup, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: podcasting, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: productivity, Probability: 0.204
+2025-04-29 22:49:04,544 - INFO - Keyword: products, Probability: 0.284
+2025-04-29 22:49:04,544 - INFO - Keyword: professionals, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: programming, Probability: 0.128
+2025-04-29 22:49:04,544 - INFO - Keyword: project management, Probability: 0.127
+2025-04-29 22:49:04,544 - INFO - Keyword: public speaking, Probability: 0.120
+2025-04-29 22:49:04,544 - INFO - Keyword: public_speaking, Probability: 0.131
+2025-04-29 22:49:04,544 - INFO - Keyword: real estate, Probability: 0.125
+2025-04-29 22:49:04,544 - INFO - Keyword: recipes, Probability: 0.120
+2025-04-29 22:49:04,544 - INFO - Keyword: remote teams, Probability: 0.127
+2025-04-29 22:49:04,544 - INFO - Keyword: remote work, Probability: 0.248
+2025-04-29 22:49:04,544 - INFO - Keyword: remote_work, Probability: 0.121
+2025-04-29 22:49:04,544 - INFO - Keyword: resume writing, Probability: 0.119
+2025-04-29 22:49:04,544 - INFO - Keyword: resume_writing, Probability: 0.118
+2025-04-29 22:49:04,544 - INFO - Keyword: saving money, Probability: 0.130
+2025-04-29 22:49:04,544 - INFO - Keyword: saving_money, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: security, Probability: 0.142
+2025-04-29 22:49:04,544 - INFO - Keyword: self care, Probability: 0.118
+2025-04-29 22:49:04,544 - INFO - Keyword: self improvement, Probability: 0.547
+2025-04-29 22:49:04,544 - INFO - Keyword: self publishing, Probability: 0.128
+2025-04-29 22:49:04,544 - INFO - Keyword: side hustle ideas, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: skills, Probability: 0.131
+2025-04-29 22:49:04,544 - INFO - Keyword: skincare, Probability: 0.202
+2025-04-29 22:49:04,544 - INFO - Keyword: skincare routine, Probability: 0.126
+2025-04-29 22:49:04,544 - INFO - Keyword: small business, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: small_business, Probability: 0.122
+2025-04-29 22:49:04,544 - INFO - Keyword: smart investments, Probability: 0.125
+2025-04-29 22:49:04,544 - INFO - Keyword: smoothie, Probability: 0.120
+2025-04-29 22:49:04,544 - INFO - Keyword: social_media, Probability: 0.316
+2025-04-29 22:49:04,544 - INFO - Keyword: solo travel, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: solo_trip, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: startup, Probability: 0.148
+2025-04-29 22:49:04,544 - INFO - Keyword: startups, Probability: 0.119
+2025-04-29 22:49:04,544 - INFO - Keyword: stock_market, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: stocks, Probability: 0.256
+2025-04-29 22:49:04,544 - INFO - Keyword: strategies, Probability: 0.123
+2025-04-29 22:49:04,544 - INFO - Keyword: strategy, Probability: 0.122
+2025-04-29 22:49:04,544 - INFO - Keyword: stress relief, Probability: 0.127
+2025-04-29 22:49:04,544 - INFO - Keyword: stress_relief, Probability: 0.129
+2025-04-29 22:49:04,544 - INFO - Keyword: summer, Probability: 0.120
+2025-04-29 22:49:04,544 - INFO - Keyword: summer_adventure, Probability: 0.352
+2025-04-29 22:49:04,544 - INFO - Keyword: sustainability, Probability: 0.284
+2025-04-29 22:49:04,544 - INFO - Keyword: technology, Probability: 0.262
+2025-04-29 22:49:04,544 - INFO - Keyword: tiktok, Probability: 0.128
+2025-04-29 22:49:04,544 - INFO - Keyword: time_management, Probability: 0.171
+2025-04-29 22:49:04,544 - INFO - Keyword: tips, Probability: 0.686
+2025-04-29 22:49:04,544 - INFO - Keyword: tools, Probability: 0.132
+2025-04-29 22:49:04,544 - INFO - Keyword: tourism, Probability: 0.132
+2025-04-29 22:49:04,545 - INFO - Keyword: trails, Probability: 0.352
+2025-04-29 22:49:04,545 - INFO - Keyword: travel, Probability: 0.132
+2025-04-29 22:49:04,545 - INFO - Keyword: travel destinations, Probability: 0.129
+2025-04-29 22:49:04,545 - INFO - Keyword: travel_safety, Probability: 0.132
+2025-04-29 22:49:04,545 - INFO - Keyword: trends, Probability: 0.126
+2025-04-29 22:49:04,545 - INFO - Keyword: ui_ux, Probability: 0.126
+2025-04-29 22:49:04,545 - INFO - Keyword: video marketing, Probability: 0.130
+2025-04-29 22:49:04,545 - INFO - Keyword: videos, Probability: 0.134
+2025-04-29 22:49:04,545 - INFO - Keyword: viral content, Probability: 0.128
+2025-04-29 22:49:04,545 - INFO - Keyword: viral_content, Probability: 0.128
+2025-04-29 22:49:04,545 - INFO - Keyword: web design, Probability: 0.115
+2025-04-29 22:49:04,545 - INFO - Keyword: website, Probability: 0.115
+2025-04-29 22:49:04,545 - INFO - Keyword: website creation, Probability: 0.129
+2025-04-29 22:49:04,545 - INFO - Keyword: website_design, Probability: 0.126
+2025-04-29 22:49:04,545 - INFO - Keyword: weight_loss, Probability: 0.132
+2025-04-29 22:49:04,545 - INFO - Keyword: wellbeing, Probability: 0.176
+2025-04-29 22:49:04,545 - INFO - Keyword: wellness, Probability: 0.184
+2025-04-29 22:49:04,545 - INFO - Keyword: work from home, Probability: 0.243
+2025-04-29 22:49:04,545 - INFO - Keyword: work-life balance, Probability: 0.128
+2025-04-29 22:49:04,545 - INFO - Keyword: work_from_home, Probability: 0.128
+2025-04-29 22:49:04,545 - INFO - Keyword: work_life_balance, Probability: 0.127
+2025-04-29 22:49:04,545 - INFO - Keyword: yoga, Probability: 0.144
+2025-04-29 22:49:04,545 - INFO - Keyword: young professionals, Probability: 0.114
+2025-05-14 09:12:15,659 - INFO - Loading model and encoder...
+2025-05-14 09:12:16,872 - INFO - Processing text: Okay, here's a list of Instagram tags based on the topic "fitness" and audience "general," formatted...
+2025-05-14 09:12:16,880 - INFO - Extracted keywords: ['awareness', 'business', 'career', 'content marketing', 'content_marketing', 'dogs', 'enthusiasts', 'finance', 'financial planning', 'gadgets', 'healthy', 'healthy eating', 'healthy_eating', 'instagram', 'marketing', 'marketing strategy', 'meal_prep', 'mental health', 'mental_health', 'minimalist design', 'nutrition', 'personal_branding', 'pet_care', 'productivity', 'professionals', 'recipes', 'remote work', 'self care', 'small_business', 'smoothie', 'social_media', 'strategy', 'summer', 'technology', 'tips', 'viral_content', 'web design', 'website', 'wellbeing', 'wellness', 'work-life balance', 'work_life_balance', 'young professionals']
+2025-05-14 09:12:16,880 - INFO - Keyword: AI, Probability: 0.125
+2025-05-14 09:12:16,880 - INFO - Keyword: Canva, Probability: 0.119
+2025-05-14 09:12:16,880 - INFO - Keyword: ML, Probability: 0.125
+2025-05-14 09:12:16,880 - INFO - Keyword: NFTs, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: SEO, Probability: 0.128
+2025-05-14 09:12:16,880 - INFO - Keyword: TikTok, Probability: 0.115
+2025-05-14 09:12:16,880 - INFO - Keyword: UI/UX, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: WordPress, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: YouTube optimization, Probability: 0.128
+2025-05-14 09:12:16,880 - INFO - Keyword: adventure, Probability: 0.148
+2025-05-14 09:12:16,880 - INFO - Keyword: affordable, Probability: 0.126
+2025-05-14 09:12:16,880 - INFO - Keyword: ai, Probability: 0.144
+2025-05-14 09:12:16,880 - INFO - Keyword: app interface, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: apps, Probability: 0.129
+2025-05-14 09:12:16,880 - INFO - Keyword: art market, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: awareness, Probability: 0.217
+2025-05-14 09:12:16,880 - INFO - Keyword: basics, Probability: 0.150
+2025-05-14 09:12:16,880 - INFO - Keyword: beauty, Probability: 0.128
+2025-05-14 09:12:16,880 - INFO - Keyword: beauty_routine, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: belly_fat, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: blockchain, Probability: 0.140
+2025-05-14 09:12:16,880 - INFO - Keyword: blogging, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: branding, Probability: 0.115
+2025-05-14 09:12:16,880 - INFO - Keyword: budget_travel, Probability: 0.129
+2025-05-14 09:12:16,880 - INFO - Keyword: budgeting, Probability: 0.127
+2025-05-14 09:12:16,880 - INFO - Keyword: business, Probability: 0.390
+2025-05-14 09:12:16,880 - INFO - Keyword: business growth, Probability: 0.115
+2025-05-14 09:12:16,880 - INFO - Keyword: business tips, Probability: 0.123
+2025-05-14 09:12:16,880 - INFO - Keyword: business_growth, Probability: 0.119
+2025-05-14 09:12:16,881 - INFO - Keyword: buying home, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: career, Probability: 0.237
+2025-05-14 09:12:16,881 - INFO - Keyword: career growth, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: career options, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: career_tips, Probability: 0.190
+2025-05-14 09:12:16,881 - INFO - Keyword: coding practices, Probability: 0.129
+2025-05-14 09:12:16,881 - INFO - Keyword: collaboration, Probability: 0.140
+2025-05-14 09:12:16,881 - INFO - Keyword: communication, Probability: 0.161
+2025-05-14 09:12:16,881 - INFO - Keyword: confidence, Probability: 0.161
+2025-05-14 09:12:16,881 - INFO - Keyword: content creation, Probability: 0.159
+2025-05-14 09:12:16,881 - INFO - Keyword: content marketing, Probability: 0.389
+2025-05-14 09:12:16,881 - INFO - Keyword: content_creation, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: content_marketing, Probability: 0.286
+2025-05-14 09:12:16,881 - INFO - Keyword: creative_industries, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: creativity, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: crypto, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: crypto basics, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: cryptocurrency, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: cybersecurity, Probability: 0.121
+2025-05-14 09:12:16,881 - INFO - Keyword: cybersecurity threats, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: data science, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: design tools, Probability: 0.119
+2025-05-14 09:12:16,881 - INFO - Keyword: destinations, Probability: 0.129
+2025-05-14 09:12:16,881 - INFO - Keyword: development, Probability: 0.129
+2025-05-14 09:12:16,881 - INFO - Keyword: digital marketing, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: digital_marketing, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: digital_nomad, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: dogs, Probability: 0.212
+2025-05-14 09:12:16,881 - INFO - Keyword: e-commerce, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: eBook writing, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: eco_friendly, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: education, Probability: 0.188
+2025-05-14 09:12:16,881 - INFO - Keyword: electric_cars, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: email marketing, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: email_marketing, Probability: 0.119
+2025-05-14 09:12:16,881 - INFO - Keyword: engagement, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: engineering, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: enthusiasts, Probability: 0.377
+2025-05-14 09:12:16,881 - INFO - Keyword: entrepreneurship, Probability: 0.159
+2025-05-14 09:12:16,881 - INFO - Keyword: equipment, Probability: 0.126
+2025-05-14 09:12:16,881 - INFO - Keyword: europe, Probability: 0.129
+2025-05-14 09:12:16,881 - INFO - Keyword: exercise, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: exercises, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: extra income, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: finance, Probability: 0.239
+2025-05-14 09:12:16,881 - INFO - Keyword: financial planning, Probability: 0.213
+2025-05-14 09:12:16,881 - INFO - Keyword: fitness, Probability: 0.191
+2025-05-14 09:12:16,881 - INFO - Keyword: freelance, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: freelancing, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: future, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: future tech, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: future_of_work, Probability: 0.122
+2025-05-14 09:12:16,881 - INFO - Keyword: gadgets, Probability: 0.377
+2025-05-14 09:12:16,881 - INFO - Keyword: glowing skin, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: glowing_skin, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: graphic design, Probability: 0.119
+2025-05-14 09:12:16,881 - INFO - Keyword: graphic_design, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: growth, Probability: 0.121
+2025-05-14 09:12:16,881 - INFO - Keyword: growth hacking, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: health, Probability: 0.160
+2025-05-14 09:12:16,881 - INFO - Keyword: healthy, Probability: 0.269
+2025-05-14 09:12:16,881 - INFO - Keyword: healthy eating, Probability: 0.376
+2025-05-14 09:12:16,881 - INFO - Keyword: healthy_eating, Probability: 0.267
+2025-05-14 09:12:16,881 - INFO - Keyword: hiking, Probability: 0.118
+2025-05-14 09:12:16,881 - INFO - Keyword: home workouts, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: home_workout, Probability: 0.126
+2025-05-14 09:12:16,881 - INFO - Keyword: impact, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: innovation, Probability: 0.160
+2025-05-14 09:12:16,881 - INFO - Keyword: instagram, Probability: 0.377
+2025-05-14 09:12:16,881 - INFO - Keyword: investing, Probability: 0.164
+2025-05-14 09:12:16,881 - INFO - Keyword: job search, Probability: 0.163
+2025-05-14 09:12:16,881 - INFO - Keyword: jobs, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: journaling, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: language learning, Probability: 0.188
+2025-05-14 09:12:16,881 - INFO - Keyword: learning, Probability: 0.142
+2025-05-14 09:12:16,881 - INFO - Keyword: linkedin, Probability: 0.121
+2025-05-14 09:12:16,881 - INFO - Keyword: marketing, Probability: 0.591
+2025-05-14 09:12:16,881 - INFO - Keyword: marketing strategies, Probability: 0.115
+2025-05-14 09:12:16,881 - INFO - Keyword: marketing strategy, Probability: 0.389
+2025-05-14 09:12:16,881 - INFO - Keyword: meal_prep, Probability: 0.267
+2025-05-14 09:12:16,881 - INFO - Keyword: meditation, Probability: 0.198
+2025-05-14 09:12:16,881 - INFO - Keyword: mental health, Probability: 0.307
+2025-05-14 09:12:16,881 - INFO - Keyword: mental_health, Probability: 0.245
+2025-05-14 09:12:16,881 - INFO - Keyword: mindfulness, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: mindfulness meditation, Probability: 0.123
+2025-05-14 09:12:16,881 - INFO - Keyword: minimalist design, Probability: 0.212
+2025-05-14 09:12:16,881 - INFO - Keyword: mistakes, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: mobile app design, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: motivation, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: networking, Probability: 0.121
+2025-05-14 09:12:16,881 - INFO - Keyword: nutrition, Probability: 0.376
+2025-05-14 09:12:16,881 - INFO - Keyword: online courses, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: online jobs, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: personal_branding, Probability: 0.377
+2025-05-14 09:12:16,881 - INFO - Keyword: personal_growth, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: pet_care, Probability: 0.212
+2025-05-14 09:12:16,881 - INFO - Keyword: podcast, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: podcast setup, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: podcasting, Probability: 0.127
+2025-05-14 09:12:16,881 - INFO - Keyword: productivity, Probability: 0.256
+2025-05-14 09:12:16,881 - INFO - Keyword: products, Probability: 0.124
+2025-05-14 09:12:16,881 - INFO - Keyword: professionals, Probability: 0.267
+2025-05-14 09:12:16,881 - INFO - Keyword: programming, Probability: 0.129
+2025-05-14 09:12:16,881 - INFO - Keyword: project management, Probability: 0.128
+2025-05-14 09:12:16,881 - INFO - Keyword: public speaking, Probability: 0.172
+2025-05-14 09:12:16,881 - INFO - Keyword: public_speaking, Probability: 0.125
+2025-05-14 09:12:16,881 - INFO - Keyword: real estate, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: recipes, Probability: 0.269
+2025-05-14 09:12:16,882 - INFO - Keyword: remote teams, Probability: 0.128
+2025-05-14 09:12:16,882 - INFO - Keyword: remote work, Probability: 0.226
+2025-05-14 09:12:16,882 - INFO - Keyword: remote_work, Probability: 0.122
+2025-05-14 09:12:16,882 - INFO - Keyword: resume writing, Probability: 0.163
+2025-05-14 09:12:16,882 - INFO - Keyword: resume_writing, Probability: 0.190
+2025-05-14 09:12:16,882 - INFO - Keyword: saving money, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: saving_money, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: security, Probability: 0.133
+2025-05-14 09:12:16,882 - INFO - Keyword: self care, Probability: 0.328
+2025-05-14 09:12:16,882 - INFO - Keyword: self improvement, Probability: 0.188
+2025-05-14 09:12:16,882 - INFO - Keyword: self publishing, Probability: 0.122
+2025-05-14 09:12:16,882 - INFO - Keyword: side hustle ideas, Probability: 0.122
+2025-05-14 09:12:16,882 - INFO - Keyword: skills, Probability: 0.126
+2025-05-14 09:12:16,882 - INFO - Keyword: skincare, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: skincare routine, Probability: 0.128
+2025-05-14 09:12:16,882 - INFO - Keyword: small business, Probability: 0.121
+2025-05-14 09:12:16,882 - INFO - Keyword: small_business, Probability: 0.286
+2025-05-14 09:12:16,882 - INFO - Keyword: smart investments, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: smoothie, Probability: 0.269
+2025-05-14 09:12:16,882 - INFO - Keyword: social_media, Probability: 0.520
+2025-05-14 09:12:16,882 - INFO - Keyword: solo travel, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: solo_trip, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: startup, Probability: 0.150
+2025-05-14 09:12:16,882 - INFO - Keyword: startups, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: stock_market, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: stocks, Probability: 0.122
+2025-05-14 09:12:16,882 - INFO - Keyword: strategies, Probability: 0.119
+2025-05-14 09:12:16,882 - INFO - Keyword: strategy, Probability: 0.286
+2025-05-14 09:12:16,882 - INFO - Keyword: stress relief, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: stress_relief, Probability: 0.124
+2025-05-14 09:12:16,882 - INFO - Keyword: summer, Probability: 0.269
+2025-05-14 09:12:16,882 - INFO - Keyword: summer_adventure, Probability: 0.118
+2025-05-14 09:12:16,882 - INFO - Keyword: sustainability, Probability: 0.124
+2025-05-14 09:12:16,882 - INFO - Keyword: technology, Probability: 0.247
+2025-05-14 09:12:16,882 - INFO - Keyword: tiktok, Probability: 0.122
+2025-05-14 09:12:16,882 - INFO - Keyword: time_management, Probability: 0.164
+2025-05-14 09:12:16,882 - INFO - Keyword: tips, Probability: 0.212
+2025-05-14 09:12:16,882 - INFO - Keyword: tools, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: tourism, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: trails, Probability: 0.118
+2025-05-14 09:12:16,882 - INFO - Keyword: travel, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: travel destinations, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: travel_safety, Probability: 0.129
+2025-05-14 09:12:16,882 - INFO - Keyword: trends, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: ui_ux, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: video marketing, Probability: 0.128
+2025-05-14 09:12:16,882 - INFO - Keyword: videos, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: viral content, Probability: 0.115
+2025-05-14 09:12:16,882 - INFO - Keyword: viral_content, Probability: 0.378
+2025-05-14 09:12:16,882 - INFO - Keyword: web design, Probability: 0.212
+2025-05-14 09:12:16,882 - INFO - Keyword: website, Probability: 0.212
+2025-05-14 09:12:16,882 - INFO - Keyword: website creation, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: website_design, Probability: 0.123
+2025-05-14 09:12:16,882 - INFO - Keyword: weight_loss, Probability: 0.127
+2025-05-14 09:12:16,882 - INFO - Keyword: wellbeing, Probability: 0.241
+2025-05-14 09:12:16,882 - INFO - Keyword: wellness, Probability: 0.688
+2025-05-14 09:12:16,882 - INFO - Keyword: work from home, Probability: 0.120
+2025-05-14 09:12:16,882 - INFO - Keyword: work-life balance, Probability: 0.228
+2025-05-14 09:12:16,882 - INFO - Keyword: work_from_home, Probability: 0.124
+2025-05-14 09:12:16,882 - INFO - Keyword: work_life_balance, Probability: 0.228
+2025-05-14 09:12:16,882 - INFO - Keyword: yoga, Probability: 0.187
+2025-05-14 09:12:16,882 - INFO - Keyword: young professionals, Probability: 0.213
+2025-05-14 19:00:27,387 - INFO - Loading model and encoder...
+2025-05-14 19:00:28,643 - INFO - Processing text: Okay, here are 5 blog titles for a fitness blog geared towards an academic audience, along with deta...
+2025-05-14 19:00:28,652 - INFO - Extracted keywords: ['awareness', 'branding', 'business growth', 'business tips', 'business_growth', 'career', 'content_marketing', 'cybersecurity', 'email_marketing', 'enthusiasts', 'finance', 'fitness', 'gadgets', 'growth', 'growth hacking', 'instagram', 'investing', 'linkedin', 'marketing', 'marketing strategies', 'meditation', 'mental health', 'mental_health', 'networking', 'personal_branding', 'self care', 'small business', 'small_business', 'social_media', 'startups', 'stocks', 'strategies', 'strategy', 'technology', 'wellbeing', 'wellness', 'yoga']
+2025-05-14 19:00:28,652 - INFO - Keyword: AI, Probability: 0.125
+2025-05-14 19:00:28,652 - INFO - Keyword: Canva, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: ML, Probability: 0.125
+2025-05-14 19:00:28,652 - INFO - Keyword: NFTs, Probability: 0.138
+2025-05-14 19:00:28,652 - INFO - Keyword: SEO, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: TikTok, Probability: 0.111
+2025-05-14 19:00:28,652 - INFO - Keyword: UI/UX, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: WordPress, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: YouTube optimization, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: adventure, Probability: 0.129
+2025-05-14 19:00:28,652 - INFO - Keyword: affordable, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: ai, Probability: 0.142
+2025-05-14 19:00:28,652 - INFO - Keyword: app interface, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: apps, Probability: 0.114
+2025-05-14 19:00:28,652 - INFO - Keyword: art market, Probability: 0.138
+2025-05-14 19:00:28,652 - INFO - Keyword: awareness, Probability: 0.602
+2025-05-14 19:00:28,652 - INFO - Keyword: basics, Probability: 0.128
+2025-05-14 19:00:28,652 - INFO - Keyword: beauty, Probability: 0.127
+2025-05-14 19:00:28,652 - INFO - Keyword: beauty_routine, Probability: 0.129
+2025-05-14 19:00:28,652 - INFO - Keyword: belly_fat, Probability: 0.161
+2025-05-14 19:00:28,652 - INFO - Keyword: blockchain, Probability: 0.125
+2025-05-14 19:00:28,652 - INFO - Keyword: blogging, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: branding, Probability: 0.235
+2025-05-14 19:00:28,652 - INFO - Keyword: budget_travel, Probability: 0.115
+2025-05-14 19:00:28,652 - INFO - Keyword: budgeting, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: business, Probability: 0.165
+2025-05-14 19:00:28,652 - INFO - Keyword: business growth, Probability: 0.235
+2025-05-14 19:00:28,652 - INFO - Keyword: business tips, Probability: 0.627
+2025-05-14 19:00:28,652 - INFO - Keyword: business_growth, Probability: 0.245
+2025-05-14 19:00:28,652 - INFO - Keyword: buying home, Probability: 0.109
+2025-05-14 19:00:28,652 - INFO - Keyword: career, Probability: 0.206
+2025-05-14 19:00:28,652 - INFO - Keyword: career growth, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: career options, Probability: 0.113
+2025-05-14 19:00:28,652 - INFO - Keyword: career_tips, Probability: 0.129
+2025-05-14 19:00:28,652 - INFO - Keyword: coding practices, Probability: 0.161
+2025-05-14 19:00:28,652 - INFO - Keyword: collaboration, Probability: 0.140
+2025-05-14 19:00:28,652 - INFO - Keyword: communication, Probability: 0.139
+2025-05-14 19:00:28,652 - INFO - Keyword: confidence, Probability: 0.139
+2025-05-14 19:00:28,652 - INFO - Keyword: content creation, Probability: 0.152
+2025-05-14 19:00:28,652 - INFO - Keyword: content marketing, Probability: 0.105
+2025-05-14 19:00:28,652 - INFO - Keyword: content_creation, Probability: 0.137
+2025-05-14 19:00:28,652 - INFO - Keyword: content_marketing, Probability: 0.209
+2025-05-14 19:00:28,652 - INFO - Keyword: creative_industries, Probability: 0.137
+2025-05-14 19:00:28,652 - INFO - Keyword: creativity, Probability: 0.109
+2025-05-14 19:00:28,652 - INFO - Keyword: crypto, Probability: 0.138
+2025-05-14 19:00:28,652 - INFO - Keyword: crypto basics, Probability: 0.114
+2025-05-14 19:00:28,652 - INFO - Keyword: cryptocurrency, Probability: 0.114
+2025-05-14 19:00:28,652 - INFO - Keyword: cybersecurity, Probability: 0.217
+2025-05-14 19:00:28,652 - INFO - Keyword: cybersecurity threats, Probability: 0.108
+2025-05-14 19:00:28,652 - INFO - Keyword: data science, Probability: 0.121
+2025-05-14 19:00:28,652 - INFO - Keyword: design tools, Probability: 0.112
+2025-05-14 19:00:28,652 - INFO - Keyword: destinations, Probability: 0.114
+2025-05-14 19:00:28,652 - INFO - Keyword: development, Probability: 0.161
+2025-05-14 19:00:28,652 - INFO - Keyword: digital marketing, Probability: 0.104
+2025-05-14 19:00:28,652 - INFO - Keyword: digital_marketing, Probability: 0.108
+2025-05-14 19:00:28,652 - INFO - Keyword: digital_nomad, Probability: 0.109
+2025-05-14 19:00:28,652 - INFO - Keyword: dogs, Probability: 0.134
+2025-05-14 19:00:28,653 - INFO - Keyword: e-commerce, Probability: 0.134
+2025-05-14 19:00:28,653 - INFO - Keyword: eBook writing, Probability: 0.110
+2025-05-14 19:00:28,653 - INFO - Keyword: eco_friendly, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: education, Probability: 0.142
+2025-05-14 19:00:28,653 - INFO - Keyword: electric_cars, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: email marketing, Probability: 0.104
+2025-05-14 19:00:28,653 - INFO - Keyword: email_marketing, Probability: 0.245
+2025-05-14 19:00:28,653 - INFO - Keyword: engagement, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: engineering, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: enthusiasts, Probability: 0.286
+2025-05-14 19:00:28,653 - INFO - Keyword: entrepreneurship, Probability: 0.156
+2025-05-14 19:00:28,653 - INFO - Keyword: equipment, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: europe, Probability: 0.114
+2025-05-14 19:00:28,653 - INFO - Keyword: exercise, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: exercises, Probability: 0.161
+2025-05-14 19:00:28,653 - INFO - Keyword: extra income, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: finance, Probability: 0.293
+2025-05-14 19:00:28,653 - INFO - Keyword: financial planning, Probability: 0.135
+2025-05-14 19:00:28,653 - INFO - Keyword: fitness, Probability: 0.253
+2025-05-14 19:00:28,653 - INFO - Keyword: freelance, Probability: 0.128
+2025-05-14 19:00:28,653 - INFO - Keyword: freelancing, Probability: 0.114
+2025-05-14 19:00:28,653 - INFO - Keyword: future, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: future tech, Probability: 0.111
+2025-05-14 19:00:28,653 - INFO - Keyword: future_of_work, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: gadgets, Probability: 0.286
+2025-05-14 19:00:28,653 - INFO - Keyword: glowing skin, Probability: 0.127
+2025-05-14 19:00:28,653 - INFO - Keyword: glowing_skin, Probability: 0.129
+2025-05-14 19:00:28,653 - INFO - Keyword: graphic design, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: graphic_design, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: growth, Probability: 0.336
+2025-05-14 19:00:28,653 - INFO - Keyword: growth hacking, Probability: 0.627
+2025-05-14 19:00:28,653 - INFO - Keyword: health, Probability: 0.193
+2025-05-14 19:00:28,653 - INFO - Keyword: healthy, Probability: 0.139
+2025-05-14 19:00:28,653 - INFO - Keyword: healthy eating, Probability: 0.156
+2025-05-14 19:00:28,653 - INFO - Keyword: healthy_eating, Probability: 0.139
+2025-05-14 19:00:28,653 - INFO - Keyword: hiking, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: home workouts, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: home_workout, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: impact, Probability: 0.137
+2025-05-14 19:00:28,653 - INFO - Keyword: innovation, Probability: 0.137
+2025-05-14 19:00:28,653 - INFO - Keyword: instagram, Probability: 0.286
+2025-05-14 19:00:28,653 - INFO - Keyword: investing, Probability: 0.265
+2025-05-14 19:00:28,653 - INFO - Keyword: job search, Probability: 0.121
+2025-05-14 19:00:28,653 - INFO - Keyword: jobs, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: journaling, Probability: 0.196
+2025-05-14 19:00:28,653 - INFO - Keyword: language learning, Probability: 0.142
+2025-05-14 19:00:28,653 - INFO - Keyword: learning, Probability: 0.135
+2025-05-14 19:00:28,653 - INFO - Keyword: linkedin, Probability: 0.336
+2025-05-14 19:00:28,653 - INFO - Keyword: marketing, Probability: 0.290
+2025-05-14 19:00:28,653 - INFO - Keyword: marketing strategies, Probability: 0.235
+2025-05-14 19:00:28,653 - INFO - Keyword: marketing strategy, Probability: 0.105
+2025-05-14 19:00:28,653 - INFO - Keyword: meal_prep, Probability: 0.139
+2025-05-14 19:00:28,653 - INFO - Keyword: meditation, Probability: 0.303
+2025-05-14 19:00:28,653 - INFO - Keyword: mental health, Probability: 0.517
+2025-05-14 19:00:28,653 - INFO - Keyword: mental_health, Probability: 0.665
+2025-05-14 19:00:28,653 - INFO - Keyword: mindfulness, Probability: 0.107
+2025-05-14 19:00:28,653 - INFO - Keyword: mindfulness meditation, Probability: 0.161
+2025-05-14 19:00:28,653 - INFO - Keyword: minimalist design, Probability: 0.135
+2025-05-14 19:00:28,653 - INFO - Keyword: mistakes, Probability: 0.104
+2025-05-14 19:00:28,653 - INFO - Keyword: mobile app design, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: motivation, Probability: 0.111
+2025-05-14 19:00:28,653 - INFO - Keyword: networking, Probability: 0.336
+2025-05-14 19:00:28,653 - INFO - Keyword: nutrition, Probability: 0.156
+2025-05-14 19:00:28,653 - INFO - Keyword: online courses, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: online jobs, Probability: 0.114
+2025-05-14 19:00:28,653 - INFO - Keyword: personal_branding, Probability: 0.286
+2025-05-14 19:00:28,653 - INFO - Keyword: personal_growth, Probability: 0.196
+2025-05-14 19:00:28,653 - INFO - Keyword: pet_care, Probability: 0.134
+2025-05-14 19:00:28,653 - INFO - Keyword: podcast, Probability: 0.137
+2025-05-14 19:00:28,653 - INFO - Keyword: podcast setup, Probability: 0.128
+2025-05-14 19:00:28,653 - INFO - Keyword: podcasting, Probability: 0.128
+2025-05-14 19:00:28,653 - INFO - Keyword: productivity, Probability: 0.178
+2025-05-14 19:00:28,653 - INFO - Keyword: products, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: professionals, Probability: 0.139
+2025-05-14 19:00:28,653 - INFO - Keyword: programming, Probability: 0.161
+2025-05-14 19:00:28,653 - INFO - Keyword: project management, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: public speaking, Probability: 0.147
+2025-05-14 19:00:28,653 - INFO - Keyword: public_speaking, Probability: 0.112
+2025-05-14 19:00:28,653 - INFO - Keyword: real estate, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: recipes, Probability: 0.139
+2025-05-14 19:00:28,653 - INFO - Keyword: remote teams, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: remote work, Probability: 0.168
+2025-05-14 19:00:28,653 - INFO - Keyword: remote_work, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: resume writing, Probability: 0.121
+2025-05-14 19:00:28,653 - INFO - Keyword: resume_writing, Probability: 0.129
+2025-05-14 19:00:28,653 - INFO - Keyword: saving money, Probability: 0.113
+2025-05-14 19:00:28,653 - INFO - Keyword: saving_money, Probability: 0.115
+2025-05-14 19:00:28,653 - INFO - Keyword: security, Probability: 0.176
+2025-05-14 19:00:28,653 - INFO - Keyword: self care, Probability: 0.450
+2025-05-14 19:00:28,653 - INFO - Keyword: self improvement, Probability: 0.142
+2025-05-14 19:00:28,653 - INFO - Keyword: self publishing, Probability: 0.110
+2025-05-14 19:00:28,653 - INFO - Keyword: side hustle ideas, Probability: 0.109
+2025-05-14 19:00:28,653 - INFO - Keyword: skills, Probability: 0.114
+2025-05-14 19:00:28,653 - INFO - Keyword: skincare, Probability: 0.129
+2025-05-14 19:00:28,653 - INFO - Keyword: skincare routine, Probability: 0.127
+2025-05-14 19:00:28,653 - INFO - Keyword: small business, Probability: 0.217
+2025-05-14 19:00:28,653 - INFO - Keyword: small_business, Probability: 0.209
+2025-05-14 19:00:28,654 - INFO - Keyword: smart investments, Probability: 0.109
+2025-05-14 19:00:28,654 - INFO - Keyword: smoothie, Probability: 0.139
+2025-05-14 19:00:28,654 - INFO - Keyword: social_media, Probability: 0.235
+2025-05-14 19:00:28,654 - INFO - Keyword: solo travel, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: solo_trip, Probability: 0.114
+2025-05-14 19:00:28,654 - INFO - Keyword: startup, Probability: 0.163
+2025-05-14 19:00:28,654 - INFO - Keyword: startups, Probability: 0.627
+2025-05-14 19:00:28,654 - INFO - Keyword: stock_market, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: stocks, Probability: 0.275
+2025-05-14 19:00:28,654 - INFO - Keyword: strategies, Probability: 0.245
+2025-05-14 19:00:28,654 - INFO - Keyword: strategy, Probability: 0.209
+2025-05-14 19:00:28,654 - INFO - Keyword: stress relief, Probability: 0.161
+2025-05-14 19:00:28,654 - INFO - Keyword: stress_relief, Probability: 0.107
+2025-05-14 19:00:28,654 - INFO - Keyword: summer, Probability: 0.139
+2025-05-14 19:00:28,654 - INFO - Keyword: summer_adventure, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: sustainability, Probability: 0.113
+2025-05-14 19:00:28,654 - INFO - Keyword: technology, Probability: 0.208
+2025-05-14 19:00:28,654 - INFO - Keyword: tiktok, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: time_management, Probability: 0.142
+2025-05-14 19:00:28,654 - INFO - Keyword: tips, Probability: 0.134
+2025-05-14 19:00:28,654 - INFO - Keyword: tools, Probability: 0.114
+2025-05-14 19:00:28,654 - INFO - Keyword: tourism, Probability: 0.114
+2025-05-14 19:00:28,654 - INFO - Keyword: trails, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: travel, Probability: 0.114
+2025-05-14 19:00:28,654 - INFO - Keyword: travel destinations, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: travel_safety, Probability: 0.114
+2025-05-14 19:00:28,654 - INFO - Keyword: trends, Probability: 0.110
+2025-05-14 19:00:28,654 - INFO - Keyword: ui_ux, Probability: 0.110
+2025-05-14 19:00:28,654 - INFO - Keyword: video marketing, Probability: 0.113
+2025-05-14 19:00:28,654 - INFO - Keyword: videos, Probability: 0.116
+2025-05-14 19:00:28,654 - INFO - Keyword: viral content, Probability: 0.111
+2025-05-14 19:00:28,654 - INFO - Keyword: viral_content, Probability: 0.111
+2025-05-14 19:00:28,654 - INFO - Keyword: web design, Probability: 0.135
+2025-05-14 19:00:28,654 - INFO - Keyword: website, Probability: 0.135
+2025-05-14 19:00:28,654 - INFO - Keyword: website creation, Probability: 0.112
+2025-05-14 19:00:28,654 - INFO - Keyword: website_design, Probability: 0.110
+2025-05-14 19:00:28,654 - INFO - Keyword: weight_loss, Probability: 0.161
+2025-05-14 19:00:28,654 - INFO - Keyword: wellbeing, Probability: 0.614
+2025-05-14 19:00:28,654 - INFO - Keyword: wellness, Probability: 0.491
+2025-05-14 19:00:28,654 - INFO - Keyword: work from home, Probability: 0.132
+2025-05-14 19:00:28,654 - INFO - Keyword: work-life balance, Probability: 0.132
+2025-05-14 19:00:28,654 - INFO - Keyword: work_from_home, Probability: 0.111
+2025-05-14 19:00:28,654 - INFO - Keyword: work_life_balance, Probability: 0.132
+2025-05-14 19:00:28,654 - INFO - Keyword: yoga, Probability: 0.363
+2025-05-14 19:00:28,654 - INFO - Keyword: young professionals, Probability: 0.135

@@ -1,0 +1,68 @@
+2025-04-28 11:03:28,425 - INFO - Loading dataset...
+2025-04-28 11:03:28,437 - INFO - Loaded 101 unique examples
+2025-04-28 11:03:28,438 - INFO - Sample keywords: ['photography', 'skills', 'tips', '2024']
+2025-04-28 11:03:28,438 - INFO - Preparing labels...
+2025-04-28 11:03:28,439 - INFO - Number of unique keywords: 243
+2025-04-28 11:03:28,440 - INFO - Keywords: ['2024' 'AI' 'Canva' 'Instagram' 'ML' 'NFTs' 'SEO' 'TikTok' 'UI/UX'
+ 'WordPress' 'YouTube optimization' 'adventure' 'affordable' 'ai'
+ 'app interface' 'apps' 'art market' 'awareness' 'basics' 'beauty'
+ 'beauty_routine' 'belly_fat' 'blockchain' 'blogging' 'branding' 'budget'
+ 'budget smartphones' 'budget_travel' 'budgeting' 'business'
+ 'business growth' 'business tips' 'business_growth' 'buying home'
+ 'career' 'career growth' 'career options' 'career_tips' 'channel'
+ 'clothing' 'coding practices' 'collaboration' 'communication'
+ 'confidence' 'content creation' 'content marketing' 'content writing'
+ 'content_creation' 'content_marketing' 'content_writing'
+ 'creative_industries' 'creativity' 'crypto' 'crypto basics'
+ 'cryptocurrency' 'cybersecurity' 'cybersecurity threats' 'data science'
+ 'decorating' 'design tools' 'destinations' 'development'
+ 'digital marketing' 'digital_marketing' 'digital_nomad' 'dogs'
+ 'e-commerce' 'eBook writing' 'eco-friendly' 'eco_friendly' 'education'
+ 'electric_bikes' 'electric_cars' 'email marketing' 'email_marketing'
+ 'engagement' 'engineering' 'enthusiasts' 'entrepreneurship' 'equipment'
+ 'europe' 'exams' 'exercise' 'exercises' 'extra income' 'finance'
+ 'financial planning' 'fitness' 'fitness goals' 'freelance' 'freelancing'
+ 'future' 'future tech' 'future_of_work' 'gadgets' 'glowing skin'
+ 'glowing_skin' 'graphic design' 'graphic_design' 'growth'
+ 'growth hacking' 'habits' 'health' 'healthy' 'healthy eating'
+ 'healthy meals' 'healthy_eating' 'healthy_lifestyle' 'hiking'
+ 'home workouts' 'home_design' 'home_workout' 'homebuyers' 'impact'
+ 'innovation' 'instagram' 'interior design' 'investing' 'investment'
+ 'job search' 'jobs' 'journaling' 'language learning' 'learning'
+ 'linkedin' 'marketing' 'marketing strategies' 'marketing strategy'
+ 'meal prep' 'meal_prep' 'meditation' 'mental health' 'mental_health'
+ 'mindfulness' 'mindfulness meditation' 'minimalist design' 'mistakes'
+ 'mobile' 'mobile app design' 'mobile apps' 'mobile phones'
+ 'morning_routine' 'motivation' 'networking' 'nutrition' 'online courses'
+ 'online jobs' 'personal_branding' 'personal_growth' 'pet_care'
+ 'photography' 'podcast' 'podcast setup' 'podcasting' 'productivity'
+ 'productivity apps' 'products' 'professionals' 'programming'
+ 'programming_languages' 'project management' 'public speaking'
+ 'public_speaking' 'real estate' 'real_estate' 'recipes' 'remote teams'
+ 'remote work' 'remote_work' 'resume writing' 'resume_writing'
+ 'room_decor' 'saving money' 'saving_money' 'security' 'self care'
+ 'self improvement' 'self publishing' 'seo' 'side hustle ideas' 'skills'
+ 'skincare' 'skincare routine' 'small apartments' 'small business'
+ 'small_business' 'smart investments' 'smartphones' 'smoothie'
+ 'social media' 'social_media' 'solo travel' 'solo_trip' 'startup'
+ 'startups' 'stock_market' 'stocks' 'storytelling' 'strategies' 'strategy'
+ 'stress management' 'stress relief' 'stress_relief' 'summer'
+ 'summer_adventure' 'sustainability' 'sustainable fashion' 'tech'
+ 'technology' 'tiktok' 'time management' 'time_management' 'tips' 'tools'
+ 'tourism' 'trading' 'trails' 'travel' 'travel destinations'
+ 'travel_safety' 'trends' 'ui_ux' 'urban_transport' 'vegan'
+ 'video marketing' 'videos' 'viral content' 'viral_content' 'web design'
+ 'website' 'website creation' 'website_design' 'weight_loss' 'wellbeing'
+ 'wellness' 'work from home' 'work-life balance' 'work_from_home'
+ 'work_life_balance' 'workout consistency' 'yoga' 'young professionals'
+ 'youtube']
+2025-04-28 11:03:28,440 - INFO - Splitting data...
+2025-04-28 11:03:28,442 - INFO - Training model...
+2025-04-28 11:03:28,584 - INFO - 
+Evaluating model...
+2025-04-28 11:03:28,594 - INFO - 
+Saving model...
+2025-04-28 11:03:28,622 - INFO - 
+Testing model with different thresholds...
+2025-04-28 11:03:28,657 - INFO - 
+Done! Model has been trained and saved.
