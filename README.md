@@ -225,4 +225,15 @@ Content-Type: application/json
 - **Keyword Classes**: 243 different keyword types
 - **Training Data**: 822 diverse examples
 
+## Pages
+<img width="1440" height="857" alt="Screenshot 2025-08-04 at 4 36 22 PM" src="https://github.com/user-attachments/assets/6acc2640-7207-40c2-80d5-4133b039ac4d" />
+----
+<img width="1440" height="859" alt="Screenshot 2025-08-04 at 4 36 26 PM" src="https://github.com/user-attachments/assets/56bad033-946c-41ec-a4f5-32b6c8fd8ea4" />
+----
+<img width="1440" height="854" alt="Screenshot 2025-08-04 at 4 38 12 PM" src="https://github.com/user-attachments/assets/e832b7aa-db2a-4cb7-af86-7a87792f520a" />
+----
+<img width="1440" height="856" alt="Screenshot 2025-08-04 at 4 38 25 PM" src="https://github.com/user-attachments/assets/032cee9a-8523-4bf7-a22b-f9a4089209e1" />
+
+ 
+
 
